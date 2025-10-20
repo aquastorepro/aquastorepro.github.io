@@ -1,0 +1,15 @@
+title: Aqua Store Pro
+logo: 
+description: Plants, live food and everything fishkeeping
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+author: aquastorepro
+collections:
+  live_food:
+    output: true
+  plants:
+
+
+plugins:
+ - jekyll-feed
