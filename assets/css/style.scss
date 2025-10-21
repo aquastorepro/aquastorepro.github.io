@@ -1,0 +1,81 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+body {
+	font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:#626262;
+}
+
+.viewlets {
+  display: flex;
+  gap: 20px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: left;
+}
+
+.viewlets > .product {
+  flex-basis: 230px;
+  align-self: flex-start;
+  flex-grow: 2;
+}
+
+.product {
+	border:1px solid #d0d7de;
+}
+
+.product_desc{
+	padding:10px;
+}
+
+.product_status {
+	background:#f6f8fa;
+	border-top:1px solid #d0d7de;
+	padding:10px;
+}
+
+.product_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: cover;
+}
+
+header img {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  width: 25%;
+}
+
+footer {
+display:none;
+}
+
+.message-warning{
+	border-left: 3px solid #dd2e2e;
+  	background-color: #fee5e5;
+  	padding: 10px 20px;
+  	font-weight: bold;
+  	margin-bottom: 20px;
+}
+
+.message-info{
+	border-left: 3px solid #0969da;
+  	background-color: #f5f7f9;
+  	padding: 10px 20px;
+  	font-weight: bold;
+  	margin-bottom: 20px;
+	
+}
+
+.message-tip{
+	border-left: 3px solid #3f392f;
+  	background-color: #fde2bc;
+  	padding: 10px 20px;
+  	font-weight: bold;
+  	margin-bottom: 20px;
+	
+}
