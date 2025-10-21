@@ -1,1 +1,4 @@
-welcome
+---
+layout: default
+title: Aqua Store Pro
+---
