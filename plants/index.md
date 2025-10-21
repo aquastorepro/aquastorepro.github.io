@@ -26,4 +26,15 @@ Vous trouverez ici notre selection de plantes :
       <div class="product_image"><img src="/assets/img/image.jpg" /></div>
       <div class="product_status"><span>Hornworth</span></div>
     </div>
+
+    <div class="product">
+      <div class="product_image"><img src="/assets/img/image.jpg" /></div>
+      <div class="product_status"><span>Azolla</span></div>
+    </div>
+    
+    <div class="product">
+      <div class="product_image"><img src="/assets/img/image.jpg" /></div>
+      <div class="product_status"><span>Pothos</span></div>
+    </div>
+
 </div>
