@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Guppy Grass
-image: 1750343472433.jpg
+image: guppy-grass.jpg
 ---
-<ul><li><a href="../">Back</a></li></ul>
+<ul><li><a href="{{site.url}}/plants">Back</a></li></ul>
 
 guppy grass
