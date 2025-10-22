@@ -1,25 +1,24 @@
 ---
 layout: default
-title: Guppy Grass
-image: guppy-grass.jpg
+title: Duckweed
+image: duckweed.jpg
 ---
 <ul><li><a href="{{site.url}}/plants">Back</a></li></ul>
 
+![Common guppy](/assets/img/duckweedjpg)
+*Lemnoideae (Duckweed)*
 
-![Common guppy](/assets/img/guppy-grass.jpg)
-*Najas guadalupensis (Guppy Grass)*
-
-Guppy Grass est une plante très simple et à croissance rapide. Elle est souvant utilisée dans l'élevage de Guppy, d'où son nom. Idéale pour les alevins et pour absorber les nitrates de votre aquarium.
+Duckweed est une plante aquatique flottante. Elle est considérée comme nuisible de part sa forte croissance. Elle est cependant très bénéfique pour l'environnement de votre aquarium car elle contribue à l'amélioration de la qualité de l'eau.
 
 **Caractéristiques**
 
 
-| Famille          | Hydrocharitaceae   							|
+| Famille          | Araceae   										|
 | :--------------  | :----------        							|
 | Gestion          | Facile  		    							|
 | CO2 			   | Non                							|
 | Luminosité       | Faible             							|
-| Propagation      | Coupure ou plantée 							|
+| Propagation      | Naturelle 										|
 | Fertilisant      | Ne nécssite pas de fertilisant                 |
 
 
