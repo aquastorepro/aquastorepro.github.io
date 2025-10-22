@@ -12,6 +12,7 @@ collections:
   plants:
     output: true
   builds:
+    output: true
 
 
 plugins:
