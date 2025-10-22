@@ -5,7 +5,7 @@ image: duckweed.jpg
 ---
 <ul><li><a href="{{site.url}}/plants">Back</a></li></ul>
 
-![Common guppy](/assets/img/duckweedjpg)
+![Common guppy](/assets/img/duckweed.jpg)
 *Lemnoideae (Duckweed)*
 
 Duckweed est une plante aquatique flottante. Elle est considérée comme nuisible de part sa forte croissance. Elle est cependant très bénéfique pour l'environnement de votre aquarium car elle contribue à l'amélioration de la qualité de l'eau.
