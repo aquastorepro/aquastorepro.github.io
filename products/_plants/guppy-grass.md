@@ -7,7 +7,7 @@ image: guppy-grass.jpg
 
 
 ![Common guppy](/assets/img/guppy-grass.jpg)
-*Najas guadalupensis*
+*Najas guadalupensis (Guppy grass)*
 
 Guppy Grass est une plante très simple et à croissance rapide. Elle est souvant utilisée dans l'élevage de Guppy, d'où son nom. Idéale pour les alevins et pour absorber les nitrates de votre aquarium.
 
