@@ -5,10 +5,12 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 author: aquastorepro
+collections_dir: products
 collections:
   live_food:
     output: true
   plants:
+  builds:
 
 
 plugins:
