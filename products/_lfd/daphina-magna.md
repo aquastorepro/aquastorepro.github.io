@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Daphnia Magna
-image: 1750343472433.jpg
+image: daphnia-magna.jpeg
 ---
 <ul><li><a href="{{site.url}}/live-food">Back</a></li></ul>
+
+![Daphnia Magna](/assets/img/daphnia-magna.jpeg)
+*Daphnia Magna*
