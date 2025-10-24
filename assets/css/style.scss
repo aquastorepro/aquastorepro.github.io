@@ -28,6 +28,11 @@ ul.left-menu li a:hover {
   color: white;
 }
 
+ul.left-menu li a:selected {
+  background-color: #59656f;
+  color: white;
+}
+
 .viewlets {
   display: flex;
   gap: 20px;
