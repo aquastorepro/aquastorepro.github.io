@@ -2,16 +2,16 @@ docs_list_title: ACME Documentation
 docs:
 
 - title: Home
-  url: https://aquastorepro.github.io/
+  url: 
 
 - title: Live-food
-  url: https://aquastorepro.github.io/live-food/
+  url: live-food/
   
 - title: Plants
-  url: https://aquastorepro.github.io/plants/
+  url: plants/
   
 - title: Builds
-  url: https://aquastorepro.github.io/builds/
+  url: builds/
   
 - title: Contact
-  url: https://aquastorepro.github.io/contact.html
+  url: contact.html
