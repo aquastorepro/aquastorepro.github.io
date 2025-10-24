@@ -2,16 +2,16 @@ docs_list_title: ACME Documentation
 docs:
 
 - title: Home
-  url: 
+  url: /
 
 - title: Live-food
-  url: live-food/
+  url: /live-food/
   
 - title: Plants
-  url: plants/
+  url: /plants/
   
 - title: Builds
-  url: builds/
+  url: /builds/
   
 - title: Contact
-  url: contact.html
+  url: /contact.html
