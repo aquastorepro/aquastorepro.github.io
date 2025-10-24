@@ -47,7 +47,7 @@ ul.left-menu li.active a {
   flex-grow: 2;
 }
 
-.product:has (.product_image:hover) {
+.product:has(.product_image:hover) {
 	border:1px solid #d0d7de;
 }
 
