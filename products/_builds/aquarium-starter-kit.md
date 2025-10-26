@@ -9,7 +9,7 @@ image: 1750343472433.jpg
 
 L'aquarium de 60 litres est un aquarium standard, conçu et étudié pour être un kit de démarrage d'aquariophilie (Aquarium Starter Kit). Idéal pour apprendre, facile à gérer et à déplacer.
 
-Fournit dans le kit :  une résistance et un moteur de filtration.
+Fournit dans le kit :  une résistance et un moteur de filtration, plus un tapis pour poser l'aquarium.
 
 **Prix**
 
@@ -17,4 +17,4 @@ Fournit dans le kit :  une résistance et un moteur de filtration.
 
 **Livraison**
 
-Livraison non disponible. L'aquarium est à récupérer sur place.
+Livraison non disponible. Le kit est à récupérer sur place.
