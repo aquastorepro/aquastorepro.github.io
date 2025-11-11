@@ -7,7 +7,7 @@ theme: jekyll-theme-minimal
 author: aquastorepro
 collections_dir: products
 collections:
-  live-food:
+  livestock:
     output: true
   plants:
     output: true
