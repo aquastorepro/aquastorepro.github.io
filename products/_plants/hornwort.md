@@ -8,7 +8,7 @@ image: hornwort.jpg
 ![Hornwort](/assets/img/hornwort.jpg)
 *Ceratophyllum demersum (Hornwort)*
 
-Hornwort est une plante facile à croissance rapide. Elle est particulièrement utile pour absorber les nitrates de votre aquarium. Elle est idéale pour l'elevage de poissons tropicaux car elle offre une couverture pour les alevins de ces derniers.
+Hornwort est une plante facile à croissance rapide. Elle est particulièrement utile pour absorber les nitrates de votre aquarium. Elle est idéale pour l'élevage de poissons tropicaux car elle offre une couverture pour les alevins de ces derniers.
 
 **Caractéristiques**
 
