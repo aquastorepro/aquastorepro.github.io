@@ -14,7 +14,7 @@ Le Ramshorn snail est un escargot d'eau douce petit de taille mais d'une grande 
 
 350 DA l'unité.
 
-L'unité contient 20 escargots de tailles différentes.
+L'unité contient 10 escargots de tailles différentes.
 
 **Livraison**
 
