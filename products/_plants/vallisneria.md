@@ -13,7 +13,7 @@ Vallisneria est une plante aquatique à forte croissance. Ses feuilles sont sous
 **Caractéristiques**
 
 
-| Famille          | Ceratophyllaceae   							|
+| Famille          | Hydrocharitaceae   							|
 | :--------------  | :----------        							|
 | Gestion          | Facile  		    							|
 | CO2 			   | Non                							|
