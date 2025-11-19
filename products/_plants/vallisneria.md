@@ -24,7 +24,7 @@ Vallisneria est une plante aquatique à forte croissance. Ses feuilles sont sous
 
 **Prix** 
 
-700 DA l'unité. L'unité contient 4 pouces. Une pouce contient plusieurs feuilles.
+350 DA l'unité. L'unité contient 4 pouces. Une pouce contient plusieurs feuilles.
 
 **Livraison**
 
