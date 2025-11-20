@@ -1,5 +1,5 @@
 ---
-
+layout: default
 title: Aquarium Starter kit
 image: 1750343472433.jpg
 ---

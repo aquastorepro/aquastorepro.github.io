@@ -1,5 +1,5 @@
 ---
-
+layout: default
 title: Batterie d'élevage
 image: 1750343472433.jpg
 ---
