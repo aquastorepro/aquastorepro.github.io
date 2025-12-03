@@ -127,7 +127,7 @@ Le mouvement pas de filtre est basé sur la prémisse que vous allez mettre en p
 
 ### Filtrer notre aquarium standard de 60 litres
 
-Notre aquarium de 60 litres est la taille parfaite pour commencer l'aquariophilie et l'aquascaping. Il est assez grand pour les petits poissons et assez petit pour être mis n'importe où dans votre maison.
+[Notre aquarium de 60 litres](https://aquastorepro.github.io/builds/aquarium-starter-kit.html){:target="_blank"} est la taille parfaite pour commencer l'aquariophilie et l'aquascaping. Il est assez grand pour les petits poissons et assez petit pour être mis n'importe où dans votre maison.
 
 Pour filtrer l'aquarium, vous devez d'abord choisir l'utilisation de ce dernier : 
 Voulez vous l'utliser pour faire de l'aquascaping? Pour faire de l'élevage ? Ou bien pour garder des crevettes ?
