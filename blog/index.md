@@ -5,7 +5,7 @@ title: Blog archive
 
 <ul><li><a href="{{ site.url }}">Back</a></li></ul>
 
-### All Posts
+### Nos articles
 
 <ul>
   {% for post in site.posts %}
