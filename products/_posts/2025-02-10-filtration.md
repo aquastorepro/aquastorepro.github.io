@@ -28,36 +28,37 @@ Ce qui résulte des ces trois étapes de filtration doit être éliminé de votr
 
 Le média responsable pour la filtration biologique doit être spécifiquement conçu pour abriter le plus grand nombre de bactéries bénéfiques possible. En effet, il doit y avoir une grande surface à coloniser par les bactéries. Plus grande est la surface, meilleur est la filtration; puisque plus de bactéries peuvent s'y abriter. Par exemple, la roche volcanique (pouzzolane) dans la photo en dessous est très populaire dans le hobby à cause de sa nature poreuse, ce qui lui confère une grande surface par rapport à son volume.
 
-![Lava rock](/assets/img/1739217878488.jpg)
+![Roche volcanique](/assets/img/1739217878488.jpg)
 *Roche volcanique, pouzzolane*
 
-> plus de pores = plus grande surface => plus de bactéries bénéfiques => meilleure filtration.
+> Plus de pores = plus grande surface => plus de bactéries bénéfiques => meilleure filtration.
 
 Plus de média biologique ne veux toujours pas dire plus de filtration. En effet, si vous avez une faible charge de poissons (vos entrées en saletés sont bas) alors rajouter plus de surface ne fait rien, parce que les colonies de bactéries bénéfiques sont relatives à la charges de déchets produits. Si par exemple vous avez 1M de bactéries et que vos paramètres en entrée (nombre de poissons, quantité de nourritures et débrits en décompositions) restent stables, alros rajouter plus de surface ne va pas abriter plus de bactéries (ces dernières n'auront rien à manger). Votre nombre de bactéries restera à 1M. Au contraire, si vous n'avez pas assez de surface pour une grande charge en déchets, alors l'écosystème de votre aquarium va s'éffondrer et va subir un pique d'azote qui va tuer vos poissons.
 
 La filtration mécanique est habituellement faite avec des médias comme les éponges, les filtres chaussettes, éponges à récurer, et la ouate filtrante.
 
-Les producteurs et fabriquants combinent différent types de média pour fournir les trois stades de filtration en un seul produit.
+Les producteurs et fabriquants combinent différents types de média pour fournir les trois stades de filtration en un seul produit.
 
-**Types of filtration**
+**Types de filtration**
 
-Different types of filtration can occur depending on your setup and the level of oxygen available :
+Differents types de filtration peuvent arriver selon les conditions et les niveau d'oxygène dans votre aquarium :
 
-1. Anoxic :  occurs in the absence or limited amounts of oxygen. Here, microorganisms relay on the availability of nitrates and nitrites to oxidize organic matter. This type of filtration can occur in an aquarium with a deep substrate.
-2. Anaerobic : occurs in the absence of oxygen. Here, microorganisms breakdown organic matter into methane, carbon dioxide, and biomass.
-3. Aerobic : occurs in an oxygenated environment. Here, microorganisms consume oxygen to oxidize pollutants. This is typically the environment you will find in most aquariums.
+1. Anoxique :  arrive dans l'abscence ou une quantité limitée d'oxygène. Ici, les microorganismes dépendent sur la présence de nitrites et nitrates pour oxider les déchets organiques. Ce type de filtration peut arriver dans un aquarium avec un sol profond.
 
-The three levels can be combined to achieve proper water treatment. These filtration methods are primarily used in water treatment facilities but their science
-can serve as an inspiration to built filtration mechanisms for ornamental fish.
+2. Anaerobique : arrive dans l'abscence de l'oxygène. Ici, les microorganismes décomposent les déchets organiques en méthane, dioxide de carbone et de la biomass.
 
-### Types of filters
+3. Aerobique : Arrive dans un environement riche en oxygène. Ici les microorganismes consomment l'oxygène pour oxider les poluants. C'est cet environnement qui est souvant trouvé dans la plupart des aquariums.
 
-The following is a small list of the different types of filters you can find on the market.
+Ces trois types de filtration peuvent être combinés pour produire une filtration complète (full cycle). Ces types de filtration et techniques sont utilisées dans les usines de traitement d'eau mais leur science peut servir d'inspiration pour construire des filtres d'aquarium éfficaces.
 
-**Undergravel filter**
+### Types de filtres
 
-![Undergravel filter plates](/assets/img/1739370179638.jpg)
-*Undergravel filter plates*
+Ce qui suit est une petite liste des différents types de filtres que vous pouvez trouver sur le marché.
+
+**Filtre sous gravier**
+
+![Plaques de filtre sous gravier](/assets/img/1739370179638.jpg)
+*Plaques de filtre sous gravier*
 
 The set it and forget about it filter. Perfect for shrimp and fish breeding, an undergravel filter is composed of a single or multiple plates and a lift tube. The plates are placed at the bottom of the tank with a layer of gravel on top of them.
 
@@ -106,52 +107,51 @@ The HOB filter is the way to go if you want to do an aquascaping tank. It gives 
 >
 >Another great tip is to add a sponge n the filter's intake. This prevents things from getting into the propeller and adds more surface area for the beneficial bacteria.
 
-**Canister filter**
+**Filtre externe (Canister)**
 
-A canister filter is basically a sealable box with multiple trays, an input flow and and output flow. In each tray of the filter you can put different types of media. The water is sucked from the aquarium through the input flow, goes to to bottom of the canister using a tube, then raises through every tray of the filter to be finally expelled and returned to the aquarium. The canister filter is a very popular choice amongst aquarists but they sometimes lose their seal which makes them leak.
+Un filtre externe est essentiellement un boîtier étanche comportant plusieurs compartiments, une entrée et une sortie de filtration. Chaque compartiment peut accueillir différents types de médias filtrants. L'eau est aspirée de l'aquarium par l'entrée, descend au fond du filtre grâce à un tube, puis remonte à travers chaque compartiment avant d'être finalement retournée dans l'aquarium. Le filtre externe est très populaire auprès des aquariophiles, mais il arrive qu'il perde son étanchéité, ce qui provoque des fuites.
 
 **Sump filter**
 
-![Sump filter](/assets/img/Sump-Filter.jpg)
-*Sump filter*
+![Filtre sump](/assets/img/Sump-Filter.jpg)
+*Filtre sump*
 
-A sump is a container divided into multiple chambers. Each chamber plays a role in the filtration. Usually a sump is placed under an aquarium. It receives water from the main aquarium using an overflow system. The water then travels from chamber to chamber to be filtered. From the last chamber, it is returned to the main aquarium using a pump. Sump filters can be external or integrated into the main aquarium (internal). 
+Un filtre sump est un contenaire qui contient plusieurs chambres. Chaque chambre joue un rôle particulier dans la filtration. Habituellement, une sump est placée sous un aquarium principal. Elle reçoit l'eau depuis ce dernier grâce à un système de débordement. L'eau passe d'une chambre à une autre pour être filtrée. Depuis la dernière chambre, l'eau est retorunée à l'aquarium principal avec une pompe.
 
-**No filter**
+Les filtres à sump pouvent être externes ou bien intégrés dans l'aquarium principale (internes). 
 
-The no filter 'movement' is based on the premise that you establish a stable ecosystem in your tank between fish, microorganisms and plants. Usually, this is a heavily planted aquarium with a deep substrate and nano fish like endlers or neon tetras.
+**Pas de filtre**
 
+Le mouvement pas de filtre est basé sur la prémisse que vous allez mettre en place un ecosystème en équilibre dans votre aquarium, entre poissons, plantes et microorganismes.
+Habituellement, ce type d'aquarium est très peu peuplé et extrèmement planté avec des petits poissons comme les guppies ou les tetras néon.
 
-### Filtering a 20 gallons aquarium
+### Filtrer notre aquarium standard de 60 litres
 
-A 20 gallons aquarium is the perfect size to start fishkeeping. It is big enough for small fish and small enough that you can put it everywhere.
+Un aquarium de 60 litres est la taille parfaite pour commencer l'aquariophilie et l'aquascaping. Il est assez grand pour les petits poissons et assez petit pour être mis n'importe où dans votre maison.
 
-To filter the tank, you first need to specify what you want to do with it :
-Do you want to setup a natural aquarium? A breeding project? An aquascaping tank? Or maybe you want to keep some shrimp ?
+Pour filtrer l'aquarium, vous devez d'abord choisir l'utilisation de ce dernier : 
+Voulez vous l'utliser pour faire de l'aquascaping? Pour faire de l'élevage ? Ou bien pour garder des crevettes ?
 
-If you want to use the tank for breeding fish, say [molly fish](https://tmaquaponics.github.io/2025/02/08/molly-fish.html){:target="_blank"}, then we suggest the following options :
+Si vous voulez par exemple élever des mollies, on vous suggère ce qui suit : 
 
-1. A bare bottom tank with a sponge or box filter : no substrate means the tank is easier to clean. However, you will get particles floating around in the water all the time (the fish will constantly stir up detritus that collects at the bottom) and the sponge filter will get dirty quicker. A gravel bottom will collect fish waste and your sponge filter will remain operational for a longer period of time before requiring any cleaning. But, you will also have to clean the gravel from time to time.
-2. An undergravel filter.
-3. A HOB filter. It is easy to setup and clean, and you have access to all the corners of your tank. For our use case, it can be used as a complementary filtration in case you want to stock up the tank.
+1. Un aquarium vièrge sans sol avec un filtre éxhausteur éponge ou filtre boîtier : pas de sol signifie que l'aquarium est plus facile à néttoyer. cependant les particules de déchets resteront en supensions dans l'eau tout le temps et le filtre éponge va devenir sale plus rapidement. Rajouter du gravier va permettre de collecter les détritus dans le garavier et votre filtre éponge va rester plus propre plus longtemps. Amis vous devez nettoyer le gravieer de temps à autre.
 
-> You can combine an undergravel filter with a sponge or HOB filter to get the benefits of both.
+2. un filtre sous gravier. Le meilleur filtre d'après nous.
 
-**Seeding and cycling your tank** 
+3. Un filtre cascade (H.O.B). Il est facile à mettre en place et à nettoyer. Vous donne un accès complet à tous les recoins de votre aquarium. Pour notre cas d'élevage de mollies, il peut être mis en place comme filtre en complément si vous souhaitez mettre plus de poissons.
 
-Seeding and cycling are a common practice in the hobby when setting up a new aquarium. It takes about a month for the beneficial bacteria to colonize your tank and media. What we want is to take some media from an established tank to jump start that process and reduce the time before we can put fish in our tank.
+> Vous pouvez combiner les trois filtres pour avoir les bénéfiices de chacun.
 
-You can seed and aquarium using different methods :
+**Ensemencement et cyclage votre aquarium** 
 
-4. Squeezing a dirty sponge filter into your water.
-5. Using colonized media from another tank.
-6. Using bottled bacteria products.
+Ensemencement et le cyclage de votre aquarium sont des pratiques courantes dans le hobby pour mettre en place un nouveau aquarium rapidement. Ça prends à peu près un mois pour les bactéries bénéfiques pour coloniser votre aquarium et les différents médias qui y sont présents. Ce que nous voulons faire, c'est de prendre des médias déjà colonisés depuis un autre auqarium et les mettres dans le nouveau; ceci afin de reduire le temps de cyclage du nouvel aquarium.
+
+Vous pouvez encemencer un aquarium de trois façons :
+
+1. Presser un filtre éponge sale dans l'eau.
+2. Utiliser un média filtrant colonisé provenant d'un autre aquarium.
+3. Utiliser des produits bactériens en flacon.
 
 ### Conclusion
 
-We have explored the basics of filtration, with examples from commercial and DIY solutions. With the information provided here, you can be confident in providing a clean water to your fish, in navigating different products available on the market or in building custom solutions yourself.
-
-Happy fishkeeping !!
-### References
-
-10. [https://www.sciencedirect.com/science/article/abs/pii/S1387700321005335](https://www.sciencedirect.com/science/article/abs/pii/S1387700321005335){:target="_blank"} 
+On a exploré les bases de la filtration d'un aquarium, avec des exemples du commerce et des solutions maison. Avec les informations fournies, vous pouvez être confident pour fournir une eau pure pour vos poissons, pour acheter différents produitrs sur le marché ou pour fabriquer vous même des produits de filtration maison.
