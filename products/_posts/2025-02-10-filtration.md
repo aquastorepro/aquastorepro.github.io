@@ -13,31 +13,31 @@ La filtration est l'un des plus importants aspects de l'aquariophilie. Dans cet 
 
 Avoir vos paramètres d'eau en équilibre est le premier pas vers un processus d'aquariophilie réussi. En principe, la filtration est assez simple (de l'eau sale en entrée passe par un filtre et ressort en eau propre), elle est en fait un processus compliqué qui repose sur plusieurs étapes et microorganismes. Heureusement, vous pouvez mettre en place une assez bonne filtration sans trop rentrer dans l'aspect scientifique de cette dernière.
 
-Au niveau conceptuel, votre eau sale doit passez par une serie de stages de filtrations qui utilisent différent types de média et d'outils.
+Au niveau conceptuel, votre eau sale doit passez par une serie de stades de filtrations qui utilisent différent types de média et d'outils.
 
-Trois stages ou étapes de filtration sont à attendre :  
+Trois stades ou étapes de filtration sont à attendre :  
 
-1. <ins>Filtration méchanique</ins>, qui nettoie votre eau des grandes à petites particules, comme les détritus, l'exès de nourritures et les fines particules en suspensions dans l'eau.
+1. <ins>Filtration mécanique</ins>, qui nettoie votre eau des grandes à petites particules, comme les détritus, l'exès de nourritures et les fines particules en suspensions dans l'eau.
 2. <ins>Filtration biologique</ins>, qui est produite par les bactéries bénéfiques responsables de la conversion de l'azote (la susbstance toxique qui entre dans votre aquarium suite à la décomposition de la nourriture, des plantes, des déchets de vos poissons, etc...) vers d'autres composants comme les nitrites et les nitrates.
 3. <ins>Filtration chimique</ins> qui est responsable de l'élimination des composés chimiques présents dans l'eau comme les médicaments et les tanins.
 
-Ce qui résulte des ces trois étapes de filtration doit être éliminé de votrre aquarium par le biais de plantes et à travers les changements d'eau.
+Ce qui résulte des ces trois étapes de filtration doit être éliminé de votre aquarium par le biais de plantes et à travers les changements d'eau.
 
 <!--more-->
 > La filtration chimique est généralement faite avec des produits comme le charbon actif et la zeolite. Cependant, le niveau d'éfficacité des produits disponibles sur le marché pour enlever les composants chimiques reste discutable. Il faut toujours se renseigner sur internet avant d'acheter ce types de produits.
 
-Le média responsable pour la filtration biologique doit être spécifiquement conçu pour abriter le plus grand nombre de bactéries bénéfiques possible. En effet, il doit avoir une grande surface à coloniser par les bactéries. Plus grande est la surface, meilleur est la filtration; puisque plus de bactéries peuvent s'y abriter. Par exemple, la roche volcanique (pouzzolane) dans la photo en dessous est très populaire dans le hobby à cause de sa nature poreuse, ce qui lui confère une grande surface par rapport à son volume.
+Le média responsable pour la filtration biologique doit être spécifiquement conçu pour abriter le plus grand nombre de bactéries bénéfiques possible. En effet, il doit y avoir une grande surface à coloniser par les bactéries. Plus grande est la surface, meilleur est la filtration; puisque plus de bactéries peuvent s'y abriter. Par exemple, la roche volcanique (pouzzolane) dans la photo en dessous est très populaire dans le hobby à cause de sa nature poreuse, ce qui lui confère une grande surface par rapport à son volume.
 
 ![Lava rock](/assets/img/1739217878488.jpg)
 *Roche volcanique, pouzzolane*
 
-> More pores = more surface area => more beneficial bacteria => better filtration.
+> plus de pores = plus grande surface => plus de bactéries bénéfiques => meilleure filtration.
 
-More biological media does not always equate better filtration. Indeed, if you have a small fish load (your dirty input is small) then adding more surface area does nothing, because the colonies of bacteria are relative to the load. If you have 1M bacteria for example, and your water parameters and fish load are stable, then adding more media will not host more beneficial bacteria (they will have nothing more to eat). Your bacteria population will remain at 1M. On the flip side, not having enough media for a given load will cause your tank to crash and you will have an ammonia spike.
+Plus de média biologique ne veux toujours pas dire plus de filtration. En effet, si vous avez une faible charge de poissons (vos entrées en saletés sont bas) alors rajouter plus de surface ne fait rien, parce que les colonies de bactéries bénéfiques sont relatives à la charges de déchets produits. Si par exemple vous avez 1M de bactéries et que vos paramètres en entrée (nombre de poissons, quantité de nourritures et débrits en décompositions) restent stables, alros rajouter plus de surface ne va pas abriter plus de bactéries (ces dernières n'auront rien à manger). Votre nombre de bactéries restera à 1M. Au contraire, si vous n'avez pas assez de surface pour une grande charge en déchets, alors l'écosystème de votre aquarium va s'éffondrer et va subir un pique d'azote qui va tuer vos poissons.
 
-Mechanical filtration is usually done with media like sponges, filter socks, pot scrubbers, and filter floss. 
+La filtration mécanique est habituellement faite avec des médias comme les éponges, les filtres chaussettes, éponges à récurer, et la ouate filtrante.
 
-Manufacturers tend to combine different media to provide the three stages of filtration into a single product.
+Les producteurs et fabriquants combinent différent types de média pour fournir les trois stades de filtration en un seul produit.
 
 **Types of filtration**
 
