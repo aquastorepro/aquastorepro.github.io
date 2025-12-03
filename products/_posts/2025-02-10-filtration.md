@@ -9,7 +9,7 @@ tags: filtration aquarium
 La filtration est l'un des plus importants aspects de l'aquariophilie. Dans cet article, on va explorer les differents types de filtrations qui existent et mettre au point une filtration pour notre aquarium standard de 60 litres.
 
 
-### Overview
+### Aperçu
 
 Avoir vos paramètres d'eau en équilibre est le premier pas vers un processus d'aquariophilie réussi. En principe, la filtration est assez simple (de l'eau sale en entrée passe par un filtre et ressort en eau propre), elle est en fait un processus compliqué qui repose sur plusieurs étapes et microorganismes. Heureusement, vous pouvez mettre en place une assez bonne filtration sans trop rentrer dans l'aspect scientifique de cette dernière.
 
@@ -26,30 +26,30 @@ Ce qui résulte des ces trois étapes de filtration doit être éliminé de votr
 <!--more-->
 > La filtration chimique est généralement faite avec des produits comme le charbon actif et la zeolite. Cependant, le niveau d'éfficacité des produits disponibles sur le marché pour enlever les composants chimiques reste discutable. Il faut toujours se renseigner sur internet avant d'acheter ce types de produits.
 
-Le média responsable pour la filtration biologique doit être spécifiquement conçu pour abriter le plus grand nombre de bactéries bénéfiques possible. En effet, il doit y avoir une grande surface à coloniser par les bactéries. Plus grande est la surface, meilleur est la filtration; puisque plus de bactéries peuvent s'y abriter. Par exemple, la roche volcanique (pouzzolane) dans la photo en dessous est très populaire dans le hobby à cause de sa nature poreuse, ce qui lui confère une grande surface par rapport à son volume.
+Le média responsable pour la filtration biologique doit être spécifiquement conçu pour abriter le plus grand nombre de bactéries bénéfiques possible. En effet, il doit avoir une grande surface à coloniser par les bactéries. Plus grande est la surface, meilleur est la filtration; puisque plus de bactéries peuvent s'y abriter. Par exemple, la roche volcanique (pouzzolane) dans la photo en dessous est très populaire dans le hobby à cause de sa nature poreuse, ce qui lui confère une grande surface par rapport à son volume.
 
 ![Roche volcanique](/assets/img/1739217878488.jpg)
 *Roche volcanique, pouzzolane*
 
 > Plus de pores = plus grande surface => plus de bactéries bénéfiques => meilleure filtration.
 
-Plus de média biologique ne veux toujours pas dire plus de filtration. En effet, si vous avez une faible charge de poissons (vos entrées en saletés sont bas) alors rajouter plus de surface ne fait rien, parce que les colonies de bactéries bénéfiques sont relatives à la charges de déchets produits. Si par exemple vous avez 1M de bactéries et que vos paramètres en entrée (nombre de poissons, quantité de nourritures et débrits en décompositions) restent stables, alros rajouter plus de surface ne va pas abriter plus de bactéries (ces dernières n'auront rien à manger). Votre nombre de bactéries restera à 1M. Au contraire, si vous n'avez pas assez de surface pour une grande charge en déchets, alors l'écosystème de votre aquarium va s'éffondrer et va subir un pique d'azote qui va tuer vos poissons.
+Plus de média biologique ne veux toujours pas dire plus de filtration. En effet, si vous avez une faible charge de poissons (vos entrées en saletés sont bas) alors rajouter plus de surface ne fait rien, parce que les colonies de bactéries bénéfiques sont relatives à la charges de déchets produits. Si par exemple vous avez 1M de bactéries et que vos paramètres en entrée (nombre de poissons, quantité de nourritures et débrits en décompositions) restent stables, alors rajouter plus de surface ne va pas abriter plus de bactéries (ces dernières n'auront rien à manger). Votre nombre de bactéries restera à 1M. Au contraire, si vous n'avez pas assez de surface pour une grande charge en déchets, alors l'écosystème de votre aquarium va s'éffondrer et va subir un pique d'azote qui va tuer vos poissons.
 
 La filtration mécanique est habituellement faite avec des médias comme les éponges, les filtres chaussettes, éponges à récurer, et la ouate filtrante.
 
-Les producteurs et fabriquants combinent différents types de média pour fournir les trois stades de filtration en un seul produit.
+Les producteurs et fabriquants combinent différents types de médias pour fournir les trois stades de filtration en un seul produit.
 
 **Types de filtration**
 
-Differents types de filtration peuvent arriver selon les conditions et les niveau d'oxygène dans votre aquarium :
+Differents types de filtration peuvent arriver selon les conditions et les niveaux d'oxygène dans votre aquarium :
 
-1. Anoxique :  arrive dans l'abscence ou une quantité limitée d'oxygène. Ici, les microorganismes dépendent sur la présence de nitrites et nitrates pour oxider les déchets organiques. Ce type de filtration peut arriver dans un aquarium avec un sol profond.
+1. Anoxique :  arrive dans l'abscence ou une quantité limitée d'oxygène. Ici, les micro-organismes dépendent sur la présence de nitrites et nitrates pour oxyder les déchets organiques. Ce type de filtration peut arriver dans un aquarium avec un sol profond.
 
-2. Anaerobique : arrive dans l'abscence de l'oxygène. Ici, les microorganismes décomposent les déchets organiques en méthane, dioxide de carbone et de la biomass.
+2. Anaerobique : arrive dans l'abscence de l'oxygène. Ici, les micro-organismes décomposent les déchets organiques en méthane, dioxyde de carbone et de la biomass.
 
-3. Aerobique : Arrive dans un environement riche en oxygène. Ici les microorganismes consomment l'oxygène pour oxider les poluants. C'est cet environnement qui est souvant trouvé dans la plupart des aquariums.
+3. Aerobique : Arrive dans un environement riche en oxygène. Ici les micro-organismes consomment l'oxygène pour oxyder les poluants. C'est cet environnement qui est souvant trouvé dans la plupart des aquariums.
 
-Ces trois types de filtration peuvent être combinés pour produire une filtration complète (full cycle). Ces types de filtration et techniques sont utilisées dans les usines de traitement d'eau mais leur science peut servir d'inspiration pour construire des filtres d'aquarium éfficaces.
+Ces trois niveaux peuvent être combinés pour obtenir un traitement de l'eau optimal. Ces méthodes de filtration sont principalement utilisées dans les stations d'épuration, mais leurs principes scientifiques peuvent inspirer la conception de systèmes de filtration pour les poissons d'ornement.
 
 ### Types de filtres
 
@@ -122,8 +122,7 @@ Les filtres à sump pouvent être externes ou bien intégrés dans l'aquarium pr
 
 **Pas de filtre**
 
-Le mouvement pas de filtre est basé sur la prémisse que vous allez mettre en place un ecosystème en équilibre dans votre aquarium, entre poissons, plantes et microorganismes.
-Habituellement, ce type d'aquarium est très peu peuplé et extrèmement planté avec des petits poissons comme les guppies ou les tetras néon.
+Le mouvement pas de filtre est basé sur la prémisse que vous allez mettre en place un ecosystème en équilibre dans votre aquarium, entre poissons, plantes et micro-organismes. Habituellement, ce type d'aquarium est très peu peuplé et extrèmement planté avec des petits poissons comme les guppies ou les tetras néon.
 
 ### Filtrer notre aquarium standard de 60 litres
 
@@ -144,7 +143,7 @@ Si vous voulez par exemple élever des mollies, on vous suggère ce qui suit :
 
 **Ensemencement et cyclage votre aquarium** 
 
-Ensemencement et le cyclage de votre aquarium sont des pratiques courantes dans le hobby pour mettre en place un nouveau aquarium rapidement. Ça prends à peu près un mois pour les bactéries bénéfiques pour coloniser votre aquarium et les différents médias qui y sont présents. Ce que nous voulons faire, c'est de prendre des médias déjà colonisés depuis un autre auqarium et les mettres dans le nouveau; ceci afin de reduire le temps de cyclage du nouvel aquarium.
+L'ensemencement et le cyclage de votre aquarium sont des pratiques courantes dans le hobby pour mettre en place un nouveau aquarium rapidement. Ça prends à peu près un mois pour les bactéries bénéfiques pour coloniser votre aquarium et les différents médias qui y sont présents. Ce que nous voulons faire, c'est de prendre des médias déjà colonisés depuis un autre auqarium et les mettres dans le nouveau; ceci afin de reduire le temps de cyclage du nouvel aquarium.
 
 Vous pouvez encemencer un aquarium de trois façons :
 
