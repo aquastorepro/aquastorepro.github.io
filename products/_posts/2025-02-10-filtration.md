@@ -60,63 +60,63 @@ Ce qui suit est une petite liste des différents types de filtres que vous pouve
 ![Plaques de filtre sous gravier](/assets/img/1739370179638.jpg)
 *Plaques de filtre sous gravier*
 
-The set it and forget about it filter. Perfect for shrimp and fish breeding, an undergravel filter is composed of a single or multiple plates and a lift tube. The plates are placed at the bottom of the tank with a layer of gravel on top of them.
+Le filtre « à installer et à oublier ». Idéal pour l'élevage de crevettes et de poissons, un filtre sous-gravier se compose d'une ou plusieurs plaques et d'un tube de remontée. Les plaques sont placées au fond de l'aquarium, recouvertes d'une couche de gravier.
 
-The filter works by creating a lift of water using an air stone or a power head attached to the lift tube. As water is sucked from underneath the gravel, it is filtered by the gravel and the beneficial bacteria it hosts.
+Le filtre fonctionne en créant une aspiration d'eau grâce à une pierre à air ou une pompe de brassage fixée au tube d'aspiration. L'eau, aspirée sous le gravier, est filtrée par celui-ci et les bactéries bénéfiques qu'il abrite.
 
-An undergravel filter will catch a great amount of waste and particles but its effectiveness may be reduced over time if not cleaned. You will have to clean it every few months (some people report years), which is always good as you can allocate your time to do something else. 
+Un filtre sous-gravier retiendra une grande quantité de déchets et de particules, mais son efficacité peut diminuer avec le temps s'il n'est pas nettoyé. Il faudra le nettoyer tous les quelques mois (voire tous les ans selon certains), ce qui est toujours un avantage car vous pourrez consacrer ce temps à d'autres activités.
 
-The problem with this type of filter is you have to take everything apart to do the cleaning, although you can gravel vacume the substrate. Another inconvenience is that fish that dig up the substrate, like convict cichlid for example, will compromise the integrity of the filter rendering it non operational.
+Le problème avec ce type de filtre, c'est qu'il faut tout démonter pour le nettoyer, même s'il est possible d'aspirer le gravier du substrat. Autre inconvénient : les poissons qui fouillent le substrat, comme le cichlidé par exemple, peuvent endommager le filtre et le rendre inutilisable.
 
-> The undergravel filter has been somewhat 'forgotten' and replaced by other means of filtration. It is however a cheap and reliable way of achieving a full cycle in your tank.
+> Le filtre sous-gravier a été quelque peu « oublié » et remplacé par d'autres systèmes de filtration. Il s'agit pourtant d'une solution économique et fiable pour assurer un cycle complet dans votre aquarium.
 
-**Gravel filter**
+**Filtre à gravier**
 
-The gravel filter has the same benefits as the undergravel filter without the downsides. It is basically a box filter with only gravel in it. Easy to clean and maintain and, like the box filter, can be built fairly cheaply.
+Le filtre à gravier offre les mêmes avantages que le filtre sous-gravier, sans ses inconvénients. Il s'agit essentiellement d'un filtre à boite contenant uniquement du gravier. Facile à nettoyer et à entretenir, il peut, comme le filtre à boite, être fabriqué à moindre coût.
 
-**Box Filter**
+**Filtre à boite**
 
-![A DIY version of the infamous box filter](/assets/img/1739216366952.jpg)
-*A DIY version of the infamous box filter*
+![Une version DIY du fameux filtre à boîte](/assets/img/1739216366952.jpg)
+*Une version DIY du fameux filtre à boîte*
 
-A box filter is a box with a lift tube. You can fill the box with filter media topped with filter floss or a sponge. The water is sucked from beneath or from the top of the filter (see picture above), passes through the filter media then exists through the lift tube. The box filter is very popular amongst hardcore aquarists for its simplicity and versatility.
+Un filtre à boîte est un boîtier muni d'un tube de remontée. On peut le remplir de masses filtrantes, recouvertes de ouate ou d'une éponge. L'eau est aspirée par le bas ou par le haut du filtre (voir image ci-dessus), traverse les masses filtrantes puis ressort par le tube de remontée. Le filtre à boîte est très apprécié des aquariophiles confirmés pour sa simplicité et sa polyvalence.
 
-**Sponge filter**
+**Filtre éponge**
 
 ![Sponge filter with gauge valve](/assets/img/71Tf1BcM1aL.jpg)
-*Sponge filter*
+*Filtre éponge*
 
-Sponge filter is a good example of both mechanical and biological filtration. It is easy to setup, maintain and clean. Sponge filters tend to clog over time but its fairly easy to unclog them.
+Le filtre à éponge est un bon exemple de filtration à la fois mécanique et biologique. Il est facile à installer, à entretenir et à nettoyer. Les filtres à éponge ont tendance à s'encrasser avec le temps, mais il est relativement facile de les déboucher.
 
-**Internal filter**
+**Filtre interne**
 
 ![Internal filter](/assets/img/1739445302074.jpg)
-*Disassembled internal filter*
+*Filtre interne démonté*
 
-The internal filter is the standard filter you can buy for your tank. They come in a variety of sizes, usually in a rectangular shape. Some have many compartments where you can put different types of media.
+Le filtre interne est le filtre standard que vous pouvez acheter pour votre aquarium. Il existe en différentes tailles, généralement de forme rectangulaire. Certains modèles comportent plusieurs compartiments permettant d'insérer différents types de masses filtrantes.
 
-> Prefer to buy an internal filter with adjustable speed so that it can be used in different tank sizes without a problem.
+> Préfèrez acheter un filtre interne à vitesse réglable afin qu'il puisse être utilisé sans problème dans des aquariums de différentes tailles.
 
-**Hang on back filter**
+**Filtre cascade HOB**
 
-The HOB filter is a box that you hang on your tank. It has an inlet tube that pumps water from your tank. The water gets filtered by the cartridges and media then flows back to the tank. It is easy to use and maintain but its downside is you can't properly cover the tank. You have to custom cut a lid for the tank to do that.
+Le filtre HOB est un boîtier que l'on fixe sur l'aquarium. Il est muni d'un tube d'aspiration qui aspire l'eau de l'aquarium. L'eau est filtrée par les cartouches et le média filtrant, puis retourne dans l'aquarium. Il est facile à utiliser et à entretenir, mais son principal inconvénient est qu'il est impossible de couvrir correctement l'aquarium. Il faut donc fabriquer un couvercle d'aquarium sur mesure.
 
-The HOB filter is the way to go if you want to do an aquascaping tank. It gives you clear access to all your tank, which makes plant maintenance easier.
+Le filtre externe cascade est la solution idéale pour réaliser un aquascaping. Il offre un accès dégagé à l'ensemble de l'aquarium, facilitant ainsi l'entretien des plantes.
 
->Instead of using the provided cartridges, replace them with a sponge and filter media like lava rock or the provided media. That way, you have the same benefits and you save money not buying new cartridges every now and then. 
+>Au lieu d'utiliser les cartouches fournies, remplacez-les par une éponge et un média filtrant comme de la pierre de lave ou le média fourni. Vous bénéficierez ainsi des mêmes avantages tout en économisant de l'argent en n'ayant plus besoin d'acheter de nouvelles cartouches régulièrement.
 >
->Another great tip is to add a sponge n the filter's intake. This prevents things from getting into the propeller and adds more surface area for the beneficial bacteria.
+>Une autre astuce efficace consiste à placer une éponge à l'entrée du filtre. Cela empêche les impuretés de pénétrer dans l'hélice et augmente la surface de contact avec les bactéries bénéfiques.
 
 **Filtre externe (Canister)**
 
 Un filtre externe est essentiellement un boîtier étanche comportant plusieurs compartiments, une entrée et une sortie de filtration. Chaque compartiment peut accueillir différents types de médias filtrants. L'eau est aspirée de l'aquarium par l'entrée, descend au fond du filtre grâce à un tube, puis remonte à travers chaque compartiment avant d'être finalement retournée dans l'aquarium. Le filtre externe est très populaire auprès des aquariophiles, mais il arrive qu'il perde son étanchéité, ce qui provoque des fuites.
 
-**Sump filter**
+**Filtre sump**
 
 ![Filtre sump](/assets/img/Sump-Filter.jpg)
 *Filtre sump*
 
-Un filtre sump est un contenaire qui contient plusieurs chambres. Chaque chambre joue un rôle particulier dans la filtration. Habituellement, une sump est placée sous un aquarium principal. Elle reçoit l'eau depuis ce dernier grâce à un système de débordement. L'eau passe d'une chambre à une autre pour être filtrée. Depuis la dernière chambre, l'eau est retorunée à l'aquarium principal avec une pompe.
+Un filtre sump (ou chambre de décantation) est un contenaire qui contient plusieurs chambres. Chaque chambre joue un rôle particulier dans la filtration. Habituellement, une sump est placée sous un aquarium principal. Elle reçoit l'eau depuis ce dernier grâce à un système de débordement. L'eau passe d'une chambre à une autre pour être filtrée. Depuis la dernière chambre, l'eau est retorunée à l'aquarium principal avec une pompe.
 
 Les filtres à sump pouvent être externes ou bien intégrés dans l'aquarium principale (internes). 
 
@@ -127,16 +127,16 @@ Habituellement, ce type d'aquarium est très peu peuplé et extrèmement planté
 
 ### Filtrer notre aquarium standard de 60 litres
 
-Un aquarium de 60 litres est la taille parfaite pour commencer l'aquariophilie et l'aquascaping. Il est assez grand pour les petits poissons et assez petit pour être mis n'importe où dans votre maison.
+Notre aquarium de 60 litres est la taille parfaite pour commencer l'aquariophilie et l'aquascaping. Il est assez grand pour les petits poissons et assez petit pour être mis n'importe où dans votre maison.
 
 Pour filtrer l'aquarium, vous devez d'abord choisir l'utilisation de ce dernier : 
 Voulez vous l'utliser pour faire de l'aquascaping? Pour faire de l'élevage ? Ou bien pour garder des crevettes ?
 
 Si vous voulez par exemple élever des mollies, on vous suggère ce qui suit : 
 
-1. Un aquarium vièrge sans sol avec un filtre éxhausteur éponge ou filtre boîtier : pas de sol signifie que l'aquarium est plus facile à néttoyer. cependant les particules de déchets resteront en supensions dans l'eau tout le temps et le filtre éponge va devenir sale plus rapidement. Rajouter du gravier va permettre de collecter les détritus dans le garavier et votre filtre éponge va rester plus propre plus longtemps. Amis vous devez nettoyer le gravieer de temps à autre.
+1. Un aquarium vièrge sans sol avec un filtre éxhausteur éponge ou filtre boîtier : pas de sol signifie que l'aquarium est plus facile à néttoyer. Cependant les particules de déchets resteront en supensions dans l'eau tout le temps et le filtre éponge va devenir sale plus rapidement. Rajouter du gravier va permettre de collecter les détritus dans le garavier et votre filtre éponge va rester plus propre plus longtemps. Ceci dit, vous deverez nettoyer le gravier de temps à autre.
 
-2. un filtre sous gravier. Le meilleur filtre d'après nous.
+2. Un filtre sous gravier. Le meilleur filtre d'après nous.
 
 3. Un filtre cascade (H.O.B). Il est facile à mettre en place et à nettoyer. Vous donne un accès complet à tous les recoins de votre aquarium. Pour notre cas d'élevage de mollies, il peut être mis en place comme filtre en complément si vous souhaitez mettre plus de poissons.
 
