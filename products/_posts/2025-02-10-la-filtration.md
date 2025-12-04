@@ -6,35 +6,37 @@ tags: filtration aquarium
 
 ### Introduction
 
-La filtration est un des plus importants aspects de l'aquariophilie. Dans cet article, on va explorer les differents types de filtrations qui existent et mettre au point une filtration pour notre aquarium standard de 60 litres.
+La filtration est un des aspects les plus importants de l'aquariophilie. Dans cet article, on va explorer les differents types de filtrations qui existent et mettre au point une filtration pour notre aquarium standard de 60 litres.
 
 ### Aperçu
 
 En principe, la filtration est assez simple (de l'eau sale en entrée passe par un filtre et ressort en eau propre). Elle est en fait un processus complexe qui repose sur plusieurs étapes et microorganismes. Heureusement, vous pouvez mettre en place une assez bonne filtration sans trop rentrer dans l'aspect scientifique de cette dernière.
 
-Au niveau conceptuel, votre eau sale doit passez par une serie d'étapes de filtrations qui utilisent différent types de média et d'outils.
+Au niveau conceptuel, votre eau sale doit passez par une serie d'étapes de filtrations qui utilisent différents types de média et d'outils.
 
-Trois étapes de filtration sont à attendre :  
+La filtration dans l'aquarium est faite avec ce qu'on appelle un média. Le média peut être naturel ou synthétique comme on va le voir par la suite.
+
+Trois étapes de filtration sont à envisager :  
 
 1. <ins>Filtration mécanique</ins>, qui nettoie votre eau des grandes à petites particules, comme les détritus, l'exès de nourritures et les fines particules en suspensions dans l'eau.
 2. <ins>Filtration biologique</ins>, qui est produite par les bactéries bénéfiques responsables de la conversion de l'azote (la susbstance toxique qui entre dans votre aquarium suite à la décomposition de la nourriture, des plantes, des déchets de vos poissons, etc...) vers d'autres composants comme les nitrites et les nitrates.
 3. <ins>Filtration chimique</ins> qui est responsable de l'élimination des composés chimiques présents dans l'eau comme les médicaments et les tanins.
 
-Ce qui résulte des ces trois étapes de filtration doit être éliminé de votre aquarium par le biais de plantes et à travers les changements d'eau.
+Ce qui reste comme composants toxiques après ces trois étapes de filtration doit être éliminé de votre aquarium par le biais des plantes et les changements d'eau.
 
 > La conversion de l'azote en nitrite puis en nitrate est ce qu'on appelle **le cycle de l'azote**. Il est très important à connaitre pour bien comprendre ce qui se passe dans votre aquarium et pourquoi vos poissons se portent bien ou sont malades.
 
 <!--more-->
 > La filtration chimique est généralement faite avec des produits comme le charbon actif et la zeolite. Cependant, le niveau d'éfficacité des produits disponibles sur le marché pour enlever les composants chimiques reste discutable. Il faut toujours se renseigner sur internet avant d'acheter ce types de produits.
 
-Le média responsable pour la filtration biologique doit être spécifiquement conçu pour abriter le plus grand nombre possible de bactéries bénéfiques. En effet, il doit avoir une grande surface à coloniser par les bactéries. Plus grande est la surface du média, meilleur est la filtration; puisque plus de bactéries peuvent s'y abriter. Par exemple, la roche volcanique (pouzzolane) dans la photo en dessous est un média biologique très populaire dans le hobby à cause de sa nature poreuse, ce qui lui confère une grande surface par rapport à son volume.
+Le média responsable de la filtration biologique doit être spécifiquement conçu pour abriter le plus grand nombre possible de bactéries bénéfiques. En effet, il doit avoir une grande surface à coloniser par les bactéries. Plus grande la surface du média, meilleur est la filtration; puisque plus de bactéries peuvent s'y abriter. Par exemple, la roche volcanique (pouzzolane) dans la photo en dessous est un média biologique très populaire dans le hobby à cause de sa nature poreuse, ce qui lui confère une grande surface par rapport à son volume.
 
 ![Roche volcanique](/assets/img/1739217878488.jpg)
 *Roche volcanique, pouzzolane*
 
 > Plus de pores = plus grande surface => plus de bactéries bénéfiques => meilleure filtration.
 
-Plus de médias biologiques ne veux toujours pas dire plus de filtration. En effet, si vous avez une faible charge de poissons (vos entrées en saletés sont bas) alors rajouter plus de surface ne fait rien, parce que les colonies de bactéries bénéfiques sont relatives à la charges de déchets produits. Si par exemple vous avez 1M de bactéries et que vos paramètres en entrée (nombre de poissons, quantité de nourritures et débrits en décompositions) restent stables, alors rajouter plus de médias, et donc de surface habitable pour les bactéries, ne va pas abriter plus de bactéries (ces dernières n'auront rien à manger). Votre nombre de bactéries restera à 1M. Au contraire, si vous n'avez pas assez de surface de médias pour une grande charge en déchets, alors l'écosystème de votre aquarium va s'éffondrer et va subir un pique d'azote qui va tuer vos poissons.
+Plus de médias biologiques ne veux toujours pas dire plus de filtration. En effet, si vous avez une faible charge de poissons (vos entrées en saletés sont bas) alors rajouter plus de surface ne fait rien, parce que les colonies de bactéries bénéfiques sont relatives à la charges de déchets produits. Si par exemple vous avez 1M de bactéries et que vos paramètres en entrée (nombre de poissons, quantité de nourritures et débrits en décompositions) restent stables, alors rajouter plus de médias, et donc plus de surface habitable pour les bactéries, ne va pas abriter plus de bactéries (ces dernières n'auront rien à manger). Votre nombre de bactéries restera à 1M. Au contraire, si vous n'avez pas assez de surface de médias pour une grande charge en déchets, alors l'écosystème de votre aquarium va s'éffondrer et va subir un pique d'azote qui va tuer vos poissons.
 
 La filtration mécanique est habituellement faite avec des médias comme les éponges, les filtres chaussettes, éponges à récurer, et la ouate filtrante.
 
@@ -44,13 +46,13 @@ Les producteurs et fabriquants combinent différents types de médias pour fourn
 
 Differents types de filtration peuvent se produire selon les conditions et les niveaux d'oxygène dans votre aquarium :
 
-1. Anoxique :  se produit dans l'abscence ou dans une quantité limitée d'oxygène. Ici, les micro-organismes dépendent sur la présence de nitrites et nitrates pour oxyder les déchets organiques. Ce type de filtration peut se produire dans un aquarium avec un sol profond.
+1. Anoxique :  se produit dans l'abscence ou dans une quantité limitée d'oxygène. Ici, les micro-organismes dépendent de la présence de nitrites et de nitrates pour oxyder les déchets organiques. Ce type de filtration peut se produire dans un aquarium avec un sol profond.
 
 2. Anaerobique : se produit dans l'abscence d'oxygène. Ici, les micro-organismes décomposent les déchets organiques en méthane, dioxyde de carbone et de la biomasse.
 
 3. Aerobique : se produit dans un environement riche en oxygène. Ici les micro-organismes consomment l'oxygène pour oxyder les poluants. C'est cet environnement qui est souvant trouvé dans la plupart des aquariums.
 
-Ces trois niveaux peuvent être combinés pour obtenir un traitement de l'eau optimal. Ces méthodes de filtration sont principalement utilisées dans les stations d'épuration, mais leurs principes scientifiques peuvent inspirer la conception de systèmes de filtration pour les poissons d'ornement.
+Ces trois niveaux peuvent être combinés pour obtenir un traitement de l'eau optimal. Ces méthodes de filtration sont principalement utilisées dans les stations d'épuration d'eau, mais leurs principes scientifiques peuvent inspirer la conception de systèmes de filtration pour les poissons d'ornement.
 
 ### Types de filtres
 
@@ -127,7 +129,7 @@ Le mouvement pas de filtre est basé sur la prémisse que vous allez mettre en p
 
 ### Filtrer notre aquarium standard de 60 litres
 
-[Notre aquarium de 60 litres](https://aquastorepro.github.io/builds/aquarium-starter-kit.html){:target="_blank"} est la taille parfaite pour commencer l'aquariophilie et l'aquascaping. Il est assez grand pour les petits poissons et assez petit pour être mis n'importe où dans votre maison.
+[Notre aquarium de 60 litres](https://aquastorepro.github.io/builds/aquarium-starter-kit.html){:target="_blank"} a une taille parfaite pour commencer l'aquariophilie et l'aquascaping. Il est assez grand pour les petits poissons et assez petit pour être mis n'importe où dans votre maison.
 
 Pour filtrer l'aquarium, vous devez d'abord choisir l'utilisation de ce dernier : 
 Voulez vous l'utliser pour faire de l'aquascaping? Pour faire de l'élevage ? Ou bien pour garder des crevettes ?
