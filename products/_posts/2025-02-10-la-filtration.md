@@ -119,7 +119,7 @@ Un filtre externe est essentiellement un boîtier étanche comportant plusieurs 
 ![Filtre sump](/assets/img/Sump-Filter.jpg)
 *Filtre sump*
 
-Un filtre sump (ou chambre de décantation) est un contenaire qui contient plusieurs chambres. Chaque chambre joue un rôle particulier dans la filtration. Habituellement, une sump est placée sous un aquarium principal. Elle reçoit l'eau depuis ce dernier grâce à un système de débordement. L'eau passe d'une chambre à une autre pour être filtrée. Depuis la dernière chambre, l'eau est retorunée à l'aquarium principal avec une pompe.
+Un filtre sump (ou filtre à décantation) est un contenaire qui contient plusieurs chambres. Chaque chambre joue un rôle particulier dans la filtration. Habituellement, une sump est placée sous un aquarium principal. Elle reçoit l'eau depuis ce dernier grâce à un système de débordement. L'eau passe d'une chambre à une autre pour être filtrée. Depuis la dernière chambre, l'eau est retorunée à l'aquarium principal avec une pompe.
 
 Les filtres à sump pouvent être externes ou bien intégrés dans l'aquarium principale (internes). 
 
