@@ -54,120 +54,127 @@ Avant d'examiner plus en détail les sources d'ammoniac, considérons les niveau
 | Nitrites | NO2                                       | 0,00 mg/L                            | < 0,25 mg/L (quelques heures)  | ≥ 0,5 mg/L                             |
 | Nitrates | NO3                                       | < 20 mg/L                            | 20 - 40 mg/L                   | 80–100 mg/L+ (chronique)               | 
 
-Quick rule of thumb :
-- Ammonia and nitrite must always be 0.00 mg/L in a properly cycled tank.
-- Any reading > 0.25 mg/L ammonia or nitrite → immediate large water change.
-- Target nitrate < 20 mg/L for sensitive fish.
-- Hardy community fish (guppies, platies, mollies) can tolerate up to 40–50 mg/L nitrate long-term.
+Règles générales :
 
-### The sources of ammonia
+- Dans un aquarium correctement cyclé, les concentrations d'ammoniaque et de nitrites doivent toujours être nulles (0,00 mg/L).
+- Toute concentration supérieure à 0,25 mg/L d'ammoniaque ou de nitrites nécessite un changement d'eau important et immédiat.
+- Pour les poissons sensibles, la concentration de nitrates doit être inférieure à 20 mg/L.
+- Les poissons robustes d'un aquarium communautaire (guppys, platys, mollys) peuvent tolérer jusqu'à 40–50 mg/L de nitrates sur le long terme.
 
-Your aquarium is a closed system where every input has eventually an output. This applies to your fish, plants, food and every living think in your tank.
+### Les sources d'ammoniaque
 
-Every food you throw in your tank gets converted into ammonia, every dead thing in your tank gets converted into ammonia. However, the number one source of ammonia is fish waste.
+Votre aquarium est un système fermé où chaque élément entrant produit de l'ammoniaque. Cela concerne vos poissons, vos plantes, la nourriture et tout être vivant présent dans votre aquarium.
 
-1. Fish waste 
-	- Fish excrete ammonia through their gills (70-80% of their nitrogen waste).
-	- The rest comes out from their poop, which quickly breaks down into ammonia.
-2. Uneaten food
-	 - Uneaten food in your tank starts rotting and decaying withing a few hours and can produce a lot of ammonia. A single pleco wafer can produce as much as ten small fish for an entire day.
-3. Dead or dying organic matter
-	-  Decaying fish and plant matter. Excess detritus that builds up at the bottom of the tank.
-4. Tap water 
-	- Many municipal water supplies use chloramine (chlorine + ammonia)
-	- Standard dechlorinators break down the chlorine bond, but release the ammonia into your tank.
-5. Overstocking and overfeeding
-6. Filter breakdown
-	- Old filter sponge that is never rinsed becomes an ammonia factory.
-7. New substrate or decorations
-	- Some materials can leach small amounts of ammonia.
+Toute nourriture que vous y jetez se transforme en ammoniaque, de même que toute matière morte. Cependant, la principale source d'ammoniaque reste les déchets des poissons.
 
-Quick math that scares every experienced keeper
+1. Déchets des poissons
+- Les poissons excrètent de l'ammoniaque par leurs branchies (70 à 80 % de leurs déchets azotés).
+- Le reste provient de leurs excréments, qui se décomposent rapidement en ammoniaque.
 
-- A single 5 cm neon tetra produces about 0.3-0.5 mg of ammonia per day.
-- 30 neon tetras = 9 -15 mg of ammonia daily.
+2. Nourriture non consommée
+- La nourriture non consommée dans votre aquarium commence à pourrir et à se décomposer en quelques heures, ce qui peut produire une grande quantité d'ammoniaque. Une seule pastille pour pléco peut produire autant d'ammoniaque que dix petits poissons en une journée entière.
 
-In an uncycled aquarium, ammonia accumulates at this rate everyday until it reaches lethal levels - usually within 3 to 4 days of adding the first fish.
+3. Matières organiques mortes ou en décomposition
+- Décomposition des poissons et des plantes. Accumulation de détritus au fond de l'aquarium. 4. Eau du robinet
+- De nombreux réseaux d'eau potable municipaux utilisent de la chloramine (chlore + ammoniaque).
+- Les déchlorinateurs classiques décomposent la liaison du chlore, mais libèrent l'ammoniaque dans votre aquarium.
 
-### The beneficial bacteria
+5. Surpopulation et suralimentation
 
-The beneficial bacteria is the engine that powers the nitrogen cycle. Keep them alive and happy and you will have a healthy tank, neglect them and your tank will most certainly crash.
+6. Filtre encrassé
+- Une vieille éponge de filtre jamais rincée devient un véritable nid à ammoniaque.
 
-The beneficial bacteria live on every surface in your tank, be it plants, substrate, media in your filter, decorations and even your aquarium walls. They are also present in small amounts in the water column of your tank.
+7. Nouveau substrat ou décorations
+- Certains matériaux peuvent libérer de petites quantités d'ammoniaque.
 
-Two types of bacteria are involved in the nitrogen cycle. The ammonia oxidizers and the nitrite oxidizers.
+Un calcul rapide qui fait peur à tous les aquariophiles expérimentés :
 
-| Team 1 : The ammonia oxidizers                                          | Team 2 : The nitrite oxidizers                                   |
-| ----------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Main genera : Nitrosomonas, Nitrosococcus, Nitrosospira                 | Main genera : Nitrobacter, Nitrospira, Nitrospina                |
-| They convert ammonia (NH4, NH3) to nitrite (NO2)                        | They convert nitrite (NO2) to nitrate (NO3)                      |
-| They are the first responders, without them the cycle stops immediately | They finish the job, without them nitrite builds up in your tank |
+- Un seul néon tétra de 5 cm produit environ 0,3 à 0,5 mg d'ammoniaque par jour.
+- 30 néons tétra produisent donc 9 à 15 mg d'ammoniaque par jour.
 
-In most home aquariums, the real nitrite oxidizers is Nitrospira, not the Nitrobacter. This is a modern distinction that you will not find in old textbooks. Nitrospira is slower growing but far more efficient at low-oxygen low-nitrite levels, exactly the conditions of a healthy established aquarium.
+Dans un aquarium non cyclé, l'ammoniaque s'accumule à ce rythme chaque jour jusqu'à atteindre des niveaux mortels, généralement 3 à 4 jours après l'introduction du premier poisson.
 
-The temperature and pH have a big influence of the colony of bacteria and its reproduction. The sweet spots are 28-30 Celsius for temperature and 7.2 - 8.2 for pH.
+### Les bactéries bénéfiques
 
-> You can increase the temperature of your tank to accelerate the colony growth and then reduce it when you introduce your fish.
+Les bactéries bénéfiques sont essentielles au cycle de l'azote. Maintenez-les en vie et en bonne santé pour un aquarium florissant ; négligez-les et votre aquarium périclitera à coup sûr.
 
-### Cycling methods
+Les bactéries bénéfiques vivent sur toutes les surfaces de votre aquarium : plantes, substrat, masses filtrantes, décorations et même les parois. Elles sont également présentes en faible quantité dans l’eau.
 
-You can establish the cycle using different ways :
+Deux types de bactéries interviennent dans le cycle de l’azote : les bactéries oxydant l’ammoniaque et les bactéries oxydant les nitrites.
 
-- Using fish or snails : you can slowly introduce more and more fish or snails into the new tank. They will produce a little bit of ammonia everyday, enough that the beneficial bacteria can deal with. After a few weeks, you can introduce all the remaining fish. It is still best to gradually introduce more fish to the new tank.
+| Équipe 1 : Les bactéries oxydant l'ammoniaque                                | Équipe 2 : Les bactéries oxydant les nitrites                                            |
+| ---------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------|
+| Principaux genres : Nitrosomonas, Nitrosococcus, Nitrosospira                | Principaux genres : Nitrobacter, Nitrospira, Nitrospina                                  |
+| Elles transforment l'ammoniaque (NH4, NH3) en nitrite (NO2)                  | Elles transforment le nitrite (NO2) en nitrate (NO3)                                     |
+| Elles interviennent en premier ; sans elles, le cycle s'arrête immédiatement | Elles terminent le processus ; sans elles, les nitrites s'accumulent dans votre aquarium |
 
-- Fish-less cycling : using pure bottled ammonia is a great way to start your beneficial bacteria colony.  Micro dose ammonia everyday to slowly increase the number of bacteria. No fish can be harmed here if you accidentally pure too much ammonia. 
+Dans la plupart des aquariums domestiques, les véritables bactéries oxydant les nitrites sont les Nitrospira, et non les Nitrobacter. Cette distinction moderne n'apparaît pas dans les anciens manuels. Les Nitrospira ont une croissance plus lente, mais sont beaucoup plus efficaces en milieu pauvre en oxygène et en nitrites, conditions optimales pour un aquarium sain et bien établi.
 
-- Cycling with fish food : use a small amount of fish food everyday to 'feed' the water of the tank. The fish food will start decaying naturally and releasing small amounts of ammonia,  enough to kick-start a beneficial bacteria colony. 
+La température et le pH influencent fortement la colonie de bactéries et sa reproduction. Les conditions optimales se situent entre 28 et 30 °C pour la température et entre 7,2 et 8,2 pour le pH.
 
-- Another great way to cycle your tank is to use seeded media from an already established tank. Just make sure your new water does not contain chlorine or harmful substances that could slow down or kill your beneficial bacteria.
+> Vous pouvez augmenter la température de votre aquarium pour accélérer la croissance de la colonie, puis la réduire une fois vos poissons introduits.
 
-- Squeezing a dirty sponge filter :  Take a sponge filter from an established tank and squeeze it on the sponge filter of the new tank.
+### Méthodes de cyclage
 
-> a great way to have a seeded sponge filter is to use a filter that has two sponges. That way you can swap one of the new sponges with an old one.
+Vous pouvez établir le cycle de l'azote de différentes manières :
 
-### Advanced nitrogen management
+- Avec des poissons ou des escargots : introduisez progressivement des poissons ou des escargots dans le nouvel aquarium. Ils produiront chaque jour une petite quantité d'ammoniaque, suffisante pour que les bactéries bénéfiques puissent la décomposer. Après quelques semaines, vous pourrez introduire tous les poissons restants. Il est toutefois préférable d'introduire progressivement de nouveaux poissons dans le nouvel aquarium.
 
-Once your nitrogen cycle is established. The only thing you need to worry about is to not kill your bacteria, keep your inputs stable and remove the nitrates from your tank.
+- Cycle sans poissons : utiliser de l'ammoniaque pure en bouteille est une excellente façon de démarrer une colonie de bactéries bénéfiques. Ajoutez une microdose d'ammoniaque chaque jour pour augmenter lentement le nombre de bactéries. Aucun poisson ne risque d'être affecté si vous ajoutez accidentellement trop d'ammoniaque.
 
-To avoid killing your bacteria, you should never clean your filters under tap water. Always use your aquarium water to do so. You should also never wash them with soap, bleach or boiling water.
+- Cycle avec de la nourriture pour poissons : utilisez une petite quantité de nourriture pour poissons chaque jour pour « nourrir » l'eau de l'aquarium. La nourriture se décomposera naturellement et libérera de petites quantités d'ammoniaque, suffisantes pour amorcer une colonie de bactéries bénéfiques.
 
-Another great threat that gets unnoticed is the use of medication. Before medicating your fish for whatever disease, make sure you have plenty of backup of established media. In the case where you notice an unbalance in your tank after medication, you can intervene rapidly and adjust your medication, do a water change or treat your fish separately in another tank with the safe option of having a live culture of beneficial bacteria.
-  
-**Removing nitrates** Keeping the nitrogen cycle going is long term game with adjustments and monitoring on a short term basis. With bacteria alive and kicking, you need to remove the nitrates from your tank using one or many of the following ways :
+- Une autre excellente façon de cycler votre aquarium est d'utiliser des supports de filtration ensemencés provenant d'un aquarium déjà en eau. Assurez-vous simplement que votre nouvelle eau ne contienne pas de chlore ni de substances nocives susceptibles de ralentir ou de détruire vos bactéries bénéfiques.
 
-- Water changes : this is the most used method in the hobby. Depending on your fish load and your tan size, change about 20-25 % of your water every week. Make sure the new water is safe and about the same temperature as your tank.
+- Essorer une éponge filtrante sale : Prenez une éponge filtrante d'un aquarium déjà en eau et essorez-la sur l'éponge filtrante du nouvel aquarium.
 
-- Plants : our favorite method. A planted tank is an ecosystem that gets better and better over time. Plants consume excess ammonia, nitrites and nitrates and considerably reduce the number of water changes.
+> Une excellente façon d'ensemencer votre filtre à éponge est d'utiliser un filtre à deux éponges. Vous pourrez ainsi intervertir facilement les éponges neuves et usagées.
 
-- Refugium in a sump : refugiums are used to place aquatic or terrestrial plants. Terrestrial plants can suck up more nitrates because, unlike aquatic plants, they have access to more CO2.
+### Gestion avancée de l'azote
 
-- Algae scrapers : they can be easily built or bought and they do the same job as regular plants.
+Une fois votre cycle de l'azote établi, vous n'aurez plus qu'à veiller à ne pas détruire vos bactéries, à maintenir la stabilité des apports et à éliminer les nitrates de votre aquarium.
 
-- A great way to reduce your nitrates is to reduce the amount of feeding you do. A proper quantity of food is an amount your fish can finish in 2 to 3 minutes. Feeding once a day is sufficient.
+Pour éviter de détruire vos bactéries, ne nettoyez jamais vos filtres à l'eau du robinet. Utilisez toujours l'eau de votre aquarium. Ne les lavez jamais non plus avec du savon, de l'eau de Javel ou de l'eau bouillante.
 
-- Finally, keep your filters clean : routine maintenance on your filters is a must. The accumulated detritus and matter can clog your filters and reduce their efficiency. Once clogged, your filters start releasing ammonia as the debris and particles of matter stuck in them starts decaying.
+Un autre danger important, souvent négligé, est l'utilisation de médicaments. Avant de traiter vos poissons, quelle que soit la maladie, assurez-vous d'avoir une quantité suffisante de masses filtrantes déjà en place. Si vous constatez un déséquilibre dans votre aquarium après un traitement médicamenteux, vous pouvez intervenir rapidement en ajustant la posologie, en effectuant un changement d'eau ou en traitant vos poissons séparément dans un autre aquarium. L'utilisation d'une culture vivante de bactéries bénéfiques est une option sûre.
 
-> Cleaning your filters and tank is a must but over-cleaning can do more harm than good. Detritus, mulm, biofilm and decaying matters are part of the ecosystem in your tank. Removing too much stuff from your tank can disturb the balance of that ecosystem. 
+**Élimination des nitrates** Maintenir un cycle de l'azote optimal est un travail de longue haleine qui nécessite des ajustements et une surveillance réguliers. Pour que les bactéries soient actives, il est nécessaire d'éliminer les nitrates de votre aquarium en utilisant une ou plusieurs des méthodes suivantes :
 
-**Testing your water**
-You can test your water using test stripes or liquid test kits. The word on the street in that test kits are more reliable. Make sure you follow the manufacturer instructions and do testing from time to time or when you notice a problem in your tank.
+- Changements d'eau : c'est la méthode la plus courante en aquariophilie. Selon le nombre de poissons et la taille de votre aquarium, changez environ 20 à 25 % de l'eau chaque semaine. Assurez-vous que l'eau neuve est saine et à une température similaire à celle de votre aquarium.
 
-**Denitrification**
-A fifth stage in the nitrogen cycle we didn't talk about is denitrification. The bacteria involved in that process converts nitrates into nitrogen gas by consuming organic biomass (a source of carbon). This type of process occurs in zones with no oxygen (anoxic), for example in a deep substrate.
+- Plantes : notre méthode préférée. Un aquarium planté est un écosystème qui s'enrichit avec le temps. Les plantes consomment l'excès d'ammoniaque, de nitrites et de nitrates et réduisent considérablement la fréquence des changements d'eau.
 
-### Common problems and troubleshooting
+- Refuge dans une décantation : les refuges servent à placer des plantes aquatiques ou terrestres. Les plantes terrestres absorbent davantage de nitrates car, contrairement aux plantes aquatiques, elles ont accès à plus de CO2.
 
-Even established tanks can have problems that arise from time to time. The following is a list of problems you may encounter and the quick actions you can take to solve them.
+- Racleurs d'algues : faciles à fabriquer ou à acheter, ils remplissent la même fonction que les plantes classiques.
 
-| Symptom                              | Most likely cause                                 | Immediate action                                                                                 | Long-term fix                                         |
-| ------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
-| Ammonia > 0.25 mg/L in new tank      | Normal cycling (1st month)                        | Keep cycling                                                                                     | Be patient                                            |
-| Ammonia > 0.25 mg/L in mature tank   | Dead animal, overfeeding, filter clogged          | Remove the dead fish or decaying matter, clean your filter                                                          | Reduce feeding, add more plants                       |
-| Nitrite > 0.25 mg/L in mature tank   | Filter cleaned too hard and recent medication     | Stop all cleaning and put some old media back in the tank + add a small amount of aquarium salt. | Never clean all your media at once                    |
-| Ammonia stuck at 0.5-1.0 mg/L        | Not enough surface area or low oxygen             | Add extra sponge filter + add an air stone + increase the temperature to 28-30 Celsius.          | Upgrade filtration                                    |
-| Nitrate > 80-100 mg/L                | Too many fish / Too few water changes and plants  | 50-70 % water change over two days + add more plants.                                            | Reduce stocking and implement nitrate removal methods |
-| Brown diatoms everywhere             | New tank + high nitrate                           | Normal the first few weeks. Add more plants and snails.                                          | Disappears eventually                                 |
-| Sudden pH crash. Nitrates > 120 mg/L | Old tank syndrome. Excessive bacteria respiration | Increase aeration + do 70% water change                                                          | Vacuum substrate, reduce feeding, add more plants.    |
+- Réduire la quantité de nourriture est un excellent moyen de diminuer le taux de nitrates. Une portion adéquate est celle que vos poissons peuvent consommer en 2 à 3 minutes. Un seul repas par jour suffit.
+
+- Enfin, entretenez vos filtres : un entretien régulier est indispensable. L'accumulation de détritus et de matières organiques peut obstruer vos filtres et réduire leur efficacité. Une fois obstrués, les filtres libèrent de l'ammoniaque lorsque les débris et particules accumulés se décomposent.
+
+- Nettoyer vos filtres et votre aquarium est essentiel, mais un nettoyage excessif peut être contre-productif. Les détritus, les sédiments, le biofilm et les matières en décomposition font partie intégrante de l'écosystème de votre aquarium. En retirer trop peut perturber son équilibre.
+
+**Analyse de l'eau**
+
+Vous pouvez analyser l'eau de votre aquarium à l'aide de bandelettes réactives ou de kits de test liquides. Il est généralement admis que les kits de test sont plus fiables. Veillez à suivre les instructions du fabricant et à effectuer des tests régulièrement ou dès que vous constatez un problème.
+
+**Dénitrification**
+
+La dénitrification est une cinquième étape du cycle de l'azote que nous n'avons pas encore abordée. Les bactéries impliquées dans ce processus transforment les nitrates en azote gazeux en consommant de la biomasse organique (source de carbone). Ce processus se déroule dans les zones anoxiques (sans oxygène), par exemple dans un substrat profond.
+
+### Problèmes courants et dépannage
+
+Même les aquariums bien établis peuvent rencontrer des problèmes ponctuels. Voici une liste des problèmes que vous pourriez rencontrer et les solutions rapides à mettre en œuvre.
+
+| Symptôme | Cause la plus probable | Action immédiate | Solution à long terme |
+| ---------------------------------------------- | ------------------------------------------------------------ | ------------------------ | --------------------------- |
+| Ammoniaque > 0,25 mg/L dans un aquarium neuf   | Cycle normal (1er mois)                                      | Poursuivre le cycle      | Être patient                |
+| Ammoniaque > 0,25 mg/L dans un aquarium mature | Animal mort, suralimentation, filtre obstrué | Retirer le poisson mort ou les matières en décomposition, nettoyer le filtre | Réduire la quantité de nourriture, ajouter des plantes |
+| Nitrites > 0,25 mg/L dans un aquarium mature   | Nettoyage du filtre trop agressif et traitement médicamenteux récent | Arrêter tout nettoyage et remettre une partie des anciens médias filtrants dans l'aquarium + ajouter une petite quantité de sel d'aquarium. | Ne jamais nettoyer tous les médias filtrants en une seule fois |
+| Ammoniaque bloquée entre 0,5 et 1,0 mg/L       | Surface de filtration insuffisante ou faible taux d'oxygène  | Ajouter un filtre éponge supplémentaire + un diffuseur d'air + augmenter la température à 28-30 °C. | Améliorer le système de filtration |
+| Nitrates > 80-100 mg/L                         | Trop de poissons / Changements d'eau et de plantes insuffisants | Changer 50 à 70 % de l'eau sur deux jours + ajouter des plantes. | Réduire la population et mettre en place des méthodes d'élimination des nitrates. |
+| Diatomées brunes partout                       | Nouvel aquarium + taux élevé de nitrates | Normal les premières semaines. Ajouter des plantes et des escargots. | Disparaît finalement. |
+| Chute brutale du pH. Nitrates > 120 mg/L       | Syndrome du vieil aquarium. Respiration bactérienne excessive. | Augmenter l'aération + changer 70 % de l'eau. | Aspirer le substrat, réduire la nourriture, ajouter des plantes.
 
 
 ### Conclusion
