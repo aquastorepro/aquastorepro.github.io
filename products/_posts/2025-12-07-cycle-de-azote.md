@@ -48,15 +48,10 @@ Comme vous pouvez le constater sur le schéma ci-dessus, le cycle de l'azote com
 Avant d'examiner plus en détail les sources d'ammoniac, considérons les niveaux de toxicité de l'ammoniac, des nitrites et des nitrates.
 
 | Composé  | Forme chimique mesurée (kits de test)     | Sans danger                          | Niveaux acceptables (à court terme) | Niveaux toxiques (provoquent du stress ou des dommages)  |
-
 | -------- | ----------------------------------------- | ------------------------------------ | ------------------------------ | -------------------------------------- |
-
 | Ammoniac | Azote ammoniacal total (TAN, NH3 + NH4)   | 0,00 mg/L                            | < 0,25 mg/L                    | ≥ 0,5 mg/L                             |
-
-| Ammoniac | Ammoniac libre (NH3) - la fraction réellement toxique | < 0,02 mg/L              | < 0,05 mg/L                    | ≥ 0,05–0,10 mg/L                       |
-
+| Ammoniac | (NH3) - la fraction réellement toxique    | < 0,02 mg/L                          | < 0,05 mg/L                    | ≥ 0,05–0,10 mg/L                       |
 | Nitrites | NO2                                       | 0,00 mg/L                            | < 0,25 mg/L (quelques heures)  | ≥ 0,5 mg/L                             |
-
 | Nitrates | NO3                                       | < 20 mg/L                            | 20 - 40 mg/L                   | 80–100 mg/L+ (chronique)               | 
 
 Quick rule of thumb :
