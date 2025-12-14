@@ -18,7 +18,7 @@ Vus n'avez pas mis trop de nourriture, vous avez conditionné l'eau correctement
 
 Le cycle de l'azote est un processus naturel qui a lieu en nature et dans votre aquarium. Dans ce processus, des bactéries microscopiques convertissent les substances toxiques dans l'eau en substances moins toxiques pour vos poissons. C'est le processus le plus important dans le hobby. Maitrisez le et vous allez éviter 90% des problèmes (mort de poissons, mauvaises odeurs, eau trouble, algues). Ignorez le et aucun equipement ni poisson peut sauver votre aquarium. 
 
-Dans la nature, l'azote se dilue dans les eaux et est emporté par la pluie, les ruisseaux et les rivières. Dans votre aquarium, il est piégé, sans aucun moyen de l'évacuer. C'est pourquoi le cycle de l'azote est non seulement essentiel, mais aussi déterminant pour la survie de vos poissons.
+Dans la nature, l'azote se dilue dans les eaux et est emporté par la pluie, les ruisseaux et les rivières. Dans votre aquarium, il est piégé, sans aucun moyen de l'évacuer. C'est pourquoi le cycle de l'azote est non seulement essentiel, mais détermine en fait la vie ou la mort de vos poissons.
 
 Dans cet article, nous explorerons :
 
@@ -28,7 +28,7 @@ Dans cet article, nous explorerons :
 - Les techniques pour les maintenir en vie pendant des années.
 - Et comment identifier et résoudre les problèmes avant que vos poissons n’en souffrent.
 
-À la fin de cet article, vous comprendrez mieux que la plupart des aquariophiles ce qui se passe dans votre aquarium. Plus important encore, vous aurez les connaissances nécessaires pour créer un écosystème aquatique sain et stable dont vos poissons vous remercieront.
+À la fin de cet article, vous comprendrez mieux que la plupart des aquariophiles ce qui se passe dans votre aquarium. Plus important encore, vous aurez les connaissances nécessaires pour créer un écosystème aquatique sain et stable pour vos poissons et créatures aquatiques.
 
 ### Overview
 
@@ -49,7 +49,7 @@ Avant d'examiner plus en détail les sources d'ammoniac, considérons les niveau
 
 | Composé  | Forme chimique mesurée (kits de test)     | Sans danger                          | Niveaux acceptables (à court terme) | Niveaux toxiques (provoquent du stress ou des dommages)  |
 | -------- | ----------------------------------------- | ------------------------------------ | ------------------------------ | -------------------------------------- |
-| Ammoniac | Azote ammoniacal total (TAN, NH3 + NH4)   | 0,00 mg/L                            | < 0,25 mg/L                    | ≥ 0,5 mg/L                             |
+| Ammoniac | Azote ammoniacal total (AAT: NH3 + NH4)   | 0,00 mg/L                            | < 0,25 mg/L                    | ≥ 0,5 mg/L                             |
 | Ammoniac | (NH3) - la fraction réellement toxique    | < 0,02 mg/L                          | < 0,05 mg/L                    | ≥ 0,05–0,10 mg/L                       |
 | Nitrites | NO2                                       | 0,00 mg/L                            | < 0,25 mg/L (quelques heures)  | ≥ 0,5 mg/L                             |
 | Nitrates | NO3                                       | < 20 mg/L                            | 20 - 40 mg/L                   | 80–100 mg/L+ (chronique)               | 
