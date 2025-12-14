@@ -47,7 +47,7 @@ Comme vous pouvez le constater sur le schéma ci-dessus, le cycle de l'azote com
 
 Avant d'examiner plus en détail les sources d'ammoniac, considérons les niveaux de toxicité de l'ammoniac, des nitrites et des nitrates.
 
-| Composé  | Forme chimique mesurée par des kits de test | Sans danger pour la plupart des poissons et crevettes | Niveaux acceptables (à court terme) | Niveaux toxiques (provoquent du stress ou des dommages) |
+| Composé  | Forme chimique mesurée (kits de test)     | Sans danger                          | Niveaux acceptables (à court terme) | Niveaux toxiques (provoquent du stress ou des dommages)  |
 
 | -------- | ----------------------------------------- | ------------------------------------ | ------------------------------ | -------------------------------------- |
 
