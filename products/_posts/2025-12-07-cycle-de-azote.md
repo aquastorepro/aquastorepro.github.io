@@ -8,15 +8,15 @@ tags:
 
 ### Introduction
 
-Vous en avez surement entendu parlé, le cycle de l'azote par-ci, le cycle de l'azote par-là...Quest-ce exactement est le cycle de l'azote et quel est son importance pour votre aquarium et vos poissons? Dans cet artivcle, on va donner un petit aperçu de ce processus essentiel, sans lequel vos poissons seraient tous morts.
+Vous en avez surement entendu parlé, le cycle de l'azote par-ci, le cycle de l'azote par-là...Qu'est-ce exactement le cycle de l'azote et quel est son importance pour votre aquarium et vos poissons? Dans cet artivcle, on va donner un petit aperçu de ce processus essentiel, sans lequel vos poissons seraient tous morts.
 
 Mais juste avant, imaginez le scénario suivant : 
 
 Vous avez vu de très beaux poissons dans vote magasin préféré. Vous les avez ramenés à la maison tout content. Vous avez préparé un nouveau aquarium, rajouté du substrat, préparé l'eau avec un conditionneur, mis un filtre et finalement rajouté vos poissons. 4 jours plus tard, tous vos poissons sont morts. Ça vous rappelle quelque chose ?
 
-Vus n'avez pas mis trop de nourriture, vous avez conditionné l'eau correctement, réglé la résistance à la bonne température mais vous n'avez pas pu déceler le problème ? La réponse est votre cycle de l'azote n'a pas fonctionné.
+Vous n'avez pas mis trop de nourriture, vous avez conditionné l'eau correctement, réglé la résistance à la bonne température mais vous n'avez pas pu déceler le problème ? La réponse est votre cycle de l'azote n'a pas fonctionné et vos poissons ont été empoisonnés.
 
-Le cycle de l'azote est un processus naturel qui a lieu en nature et dans votre aquarium. Dans ce processus, des bactéries microscopiques convertissent les substances toxiques dans l'eau en substances moins toxiques pour vos poissons. C'est le processus le plus important dans le hobby. Maitrisez le et vous allez éviter 90% des problèmes (mort de poissons, mauvaises odeurs, eau trouble, algues). Ignorez le et aucun equipement ni poisson peut sauver votre aquarium. 
+Le cycle de l'azote est un processus naturel qui a lieu en nature et dans votre aquarium. Dans ce processus, des bactéries microscopiques convertissent les substances toxiques dans l'eau en substances moins toxiques pour vos poissons. C'est le processus le plus important dans le hobby. Maitrisez le et vous allez éviter 90% des problèmes (mort de poissons, mauvaises odeurs, eau trouble, algues). Ignorez le et aucun equipement ni poisson ne peut sauver votre aquarium. 
 
 Dans la nature, l'azote se dilue dans les eaux et est emporté par la pluie, les ruisseaux et les rivières. Dans votre aquarium, il est piégé, sans aucun moyen de l'évacuer. C'est pourquoi le cycle de l'azote est non seulement essentiel, mais détermine en fait la vie ou la mort de vos poissons.
 
@@ -30,14 +30,14 @@ Dans cet article, nous explorerons :
 
 À la fin de cet article, vous comprendrez mieux que la plupart des aquariophiles ce qui se passe dans votre aquarium. Plus important encore, vous aurez les connaissances nécessaires pour créer un écosystème aquatique sain et stable pour vos poissons et créatures aquatiques.
 
-### Overview
+### Aperçu
 
 ![The nitrogen cycle](/assets/img/Drawing 2025-12-04 04.52.55.excalidraw.png)
 *Le cycle de l'azote*
 
 Comme vous pouvez le constater sur le schéma ci-dessus, le cycle de l'azote comporte 4 étapes :
 
-- Ammonification : lors de cette étape, les déchets des poissons, les restes de nourriture, les plantes en décomposition, les poissons et escargots morts, ainsi que les détritus, sont naturellement transformés en ammoniaque, une substance mortelle pour vos poissons et les invertébrés aquatiques. Cette transformation se produit automatiquement et constamment dans votre aquarium.
+- Ammonification : lors de cette étape, les déchets des poissons, les restes de nourriture, les plantes en décomposition, les poissons et escargots morts, ainsi que les détritus, sont naturellement transformés en ammoniaque, une substance mortelle pour les poissons et les invertébrés aquatiques. Cette transformation se produit automatiquement et constamment dans votre aquarium.
 
 - Nitrification (étape 1) : la deuxième phase du cycle de l'azote consiste à transformer l'ammoniaque nocive en nitrites, une substance moins dangereuse pour vos poissons. Cette transformation est réalisée par des bactéries nitrifiantes, comme les bactéries du type Nitrosomonas.
 
@@ -45,7 +45,7 @@ Comme vous pouvez le constater sur le schéma ci-dessus, le cycle de l'azote com
 
 - Assimilation : lors de cette étape, les nitrates sont absorbés par les plantes de votre aquarium. Les nitrates restants sont dilués par les changements d'eau.
 
-Avant d'examiner plus en détail les sources d'ammoniac, considérons les niveaux de toxicité de l'ammoniac, des nitrites et des nitrates.
+Avant d'examiner plus en détail les sources d'ammoniaque, considérons les niveaux de toxicité de l'ammoniaque, des nitrites et des nitrates.
 
 | Composé  | Forme chimique mesurée (kits de test)     | Sans danger                          | Niveaux acceptables (à court terme) | Niveaux toxiques (provoquent du stress ou des dommages)  |
 | -------- | ----------------------------------------- | ------------------------------------ | ------------------------------ | -------------------------------------- |
@@ -75,7 +75,9 @@ Toute nourriture que vous y jetez se transforme en ammoniaque, de même que tout
 - La nourriture non consommée dans votre aquarium commence à pourrir et à se décomposer en quelques heures, ce qui peut produire une grande quantité d'ammoniaque. Une seule pastille pour pléco peut produire autant d'ammoniaque que dix petits poissons en une journée entière.
 
 3. Matières organiques mortes ou en décomposition
-- Décomposition des poissons et des plantes. Accumulation de détritus au fond de l'aquarium. 4. Eau du robinet
+- Décomposition des poissons et des plantes. Accumulation de détritus au fond de l'aquarium. 
+
+4. Eau du robinet
 - De nombreux réseaux d'eau potable municipaux utilisent de la chloramine (chlore + ammoniaque).
 - Les déchlorinateurs classiques décomposent la liaison du chlore, mais libèrent l'ammoniaque dans votre aquarium.
 
@@ -96,7 +98,7 @@ Dans un aquarium non cyclé, l'ammoniaque s'accumule à ce rythme chaque jour ju
 
 ### Les bactéries bénéfiques
 
-Les bactéries bénéfiques sont essentielles au cycle de l'azote. Maintenez-les en vie et en bonne santé pour un aquarium florissant ; négligez-les et votre aquarium périclitera à coup sûr.
+Les bactéries bénéfiques sont essentielles au cycle de l'azote. Maintenez-les en vie et en bonne santé pour un aquarium florissant ; négligez-les et votre aquarium aura des problèmes à coup sûr.
 
 Les bactéries bénéfiques vivent sur toutes les surfaces de votre aquarium : plantes, substrat, masses filtrantes, décorations et même les parois. Elles sont également présentes en faible quantité dans l’eau.
 
@@ -108,7 +110,7 @@ Deux types de bactéries interviennent dans le cycle de l’azote : les bactéri
 | Elles transforment l'ammoniaque (NH4, NH3) en nitrite (NO2)                  | Elles transforment le nitrite (NO2) en nitrate (NO3)                                     |
 | Elles interviennent en premier ; sans elles, le cycle s'arrête immédiatement | Elles terminent le processus ; sans elles, les nitrites s'accumulent dans votre aquarium |
 
-Dans la plupart des aquariums domestiques, les véritables bactéries oxydant les nitrites sont les Nitrospira, et non les Nitrobacter. Cette distinction moderne n'apparaît pas dans les anciens manuels. Les Nitrospira ont une croissance plus lente, mais sont beaucoup plus efficaces en milieu pauvre en oxygène et en nitrites, conditions optimales pour un aquarium sain et bien établi.
+Dans la plupart des aquariums domestiques, les véritables bactéries oxydant les nitrites sont les Nitrospira, et non les Nitrobacter. Cette distinction moderne n'apparaît pas dans les anciens manuels. Les Nitrospira ont une croissance plus lente, mais sont beaucoup plus efficaces en milieu pauvre en oxygène et en nitrites, généralement les conditions d'un aquarium sain et bien établi.
 
 La température et le pH influencent fortement la colonie de bactéries et sa reproduction. Les conditions optimales se situent entre 28 et 30 °C pour la température et entre 7,2 et 8,2 pour le pH.
 
@@ -124,35 +126,35 @@ Vous pouvez établir le cycle de l'azote de différentes manières :
 
 - Cycle avec de la nourriture pour poissons : utilisez une petite quantité de nourriture pour poissons chaque jour pour « nourrir » l'eau de l'aquarium. La nourriture se décomposera naturellement et libérera de petites quantités d'ammoniaque, suffisantes pour amorcer une colonie de bactéries bénéfiques.
 
-- Une autre excellente façon de cycler votre aquarium est d'utiliser des supports de filtration ensemencés provenant d'un aquarium déjà en eau. Assurez-vous simplement que votre nouvelle eau ne contienne pas de chlore ni de substances nocives susceptibles de ralentir ou de détruire vos bactéries bénéfiques.
+- Une autre excellente façon de cycler votre aquarium est d'utiliser des supports de filtration ensemencés provenant d'un aquarium déjà établi. Assurez-vous simplement que votre nouvelle eau ne contienne pas de chlore ni de substances nocives susceptibles de ralentir ou de détruire vos bactéries bénéfiques.
 
-- Essorer une éponge filtrante sale : Prenez une éponge filtrante d'un aquarium déjà en eau et essorez-la sur l'éponge filtrante du nouvel aquarium.
+- Essorer une éponge filtrante sale : Prenez une éponge filtrante d'un aquarium déjà établi et essorez-la sur l'éponge filtrante du nouvel aquarium.
 
 > Une excellente façon d'ensemencer votre filtre à éponge est d'utiliser un filtre à deux éponges. Vous pourrez ainsi intervertir facilement les éponges neuves et usagées.
 
 ### Gestion avancée de l'azote
 
-Une fois votre cycle de l'azote établi, vous n'aurez plus qu'à veiller à ne pas détruire vos bactéries, à maintenir la stabilité des apports et à éliminer les nitrates de votre aquarium.
+Une fois votre cycle de l'azote établi, vous n'aurez plus qu'à veiller à ne pas détruire vos bactéries, à maintenir la stabilité des entrées dans votre aquarium et à éliminer les nitrates de ce dernier.
 
 Pour éviter de détruire vos bactéries, ne nettoyez jamais vos filtres à l'eau du robinet. Utilisez toujours l'eau de votre aquarium. Ne les lavez jamais non plus avec du savon, de l'eau de Javel ou de l'eau bouillante.
 
-Un autre danger important, souvent négligé, est l'utilisation de médicaments. Avant de traiter vos poissons, quelle que soit la maladie, assurez-vous d'avoir une quantité suffisante de masses filtrantes déjà en place. Si vous constatez un déséquilibre dans votre aquarium après un traitement médicamenteux, vous pouvez intervenir rapidement en ajustant la posologie, en effectuant un changement d'eau ou en traitant vos poissons séparément dans un autre aquarium. L'utilisation d'une culture vivante de bactéries bénéfiques est une option sûre.
+Un autre danger important, souvent négligé, est l'utilisation de médicaments. Avant de traiter vos poissons, quelle que soit la maladie, assurez-vous d'avoir une quantité suffisante de masses filtrantes colonisées déjà mises de côté. Si vous constatez un déséquilibre dans votre aquarium après un traitement médicamenteux, vous pouvez intervenir rapidement en ajustant la posologie, en effectuant un changement d'eau ou en traitant vos poissons séparément dans un autre aquarium.
 
-**Élimination des nitrates** Maintenir un cycle de l'azote optimal est un travail de longue haleine qui nécessite des ajustements et une surveillance réguliers. Pour que les bactéries soient actives, il est nécessaire d'éliminer les nitrates de votre aquarium en utilisant une ou plusieurs des méthodes suivantes :
+**Élimination des nitrates** Maintenir un cycle de l'azote optimal est un travail de longue haleine qui nécessite des ajustements et une surveillance réguliers. Une fois que les bactéries sont actives, il ne reste qu'à éliminer les nitrates de votre aquarium en utilisant une ou plusieurs des méthodes suivantes :
 
-- Changements d'eau : c'est la méthode la plus courante en aquariophilie. Selon le nombre de poissons et la taille de votre aquarium, changez environ 20 à 25 % de l'eau chaque semaine. Assurez-vous que l'eau neuve est saine et à une température similaire à celle de votre aquarium.
+- Changements d'eau : c'est la méthode la plus courante en aquariophilie. Selon le nombre de poissons et la taille de votre aquarium, changez environ 20 à 25 % de l'eau chaque semaine. Assurez-vous que l'eau neuve soit saine et à une température similaire à celle de votre aquarium.
 
 - Plantes : notre méthode préférée. Un aquarium planté est un écosystème qui s'enrichit avec le temps. Les plantes consomment l'excès d'ammoniaque, de nitrites et de nitrates et réduisent considérablement la fréquence des changements d'eau.
 
-- Refuge dans une décantation : les refuges servent à placer des plantes aquatiques ou terrestres. Les plantes terrestres absorbent davantage de nitrates car, contrairement aux plantes aquatiques, elles ont accès à plus de CO2.
+- Refugium dans une décantation : les refugiums servent à placer des plantes aquatiques ou terrestres. Les plantes terrestres absorbent davantage de nitrates car, contrairement aux plantes aquatiques, elles ont accès à plus de CO2.
 
-- Racleurs d'algues : faciles à fabriquer ou à acheter, ils remplissent la même fonction que les plantes classiques.
+- Filtre à algues : faciles à fabriquer ou à acheter, ils remplissent la même fonction que les plantes classiques.
 
 - Réduire la quantité de nourriture est un excellent moyen de diminuer le taux de nitrates. Une portion adéquate est celle que vos poissons peuvent consommer en 2 à 3 minutes. Un seul repas par jour suffit.
 
 - Enfin, entretenez vos filtres : un entretien régulier est indispensable. L'accumulation de détritus et de matières organiques peut obstruer vos filtres et réduire leur efficacité. Une fois obstrués, les filtres libèrent de l'ammoniaque lorsque les débris et particules accumulés se décomposent.
 
-- Nettoyer vos filtres et votre aquarium est essentiel, mais un nettoyage excessif peut être contre-productif. Les détritus, les sédiments, le biofilm et les matières en décomposition font partie intégrante de l'écosystème de votre aquarium. En retirer trop peut perturber son équilibre.
+>Nettoyer vos filtres et votre aquarium est essentiel, mais un nettoyage excessif peut être contre-productif. Les détritus, les sédiments, le biofilm et les matières en décomposition font partie intégrante de l'écosystème de votre aquarium. En retirer trop peut perturber son équilibre.
 
 **Analyse de l'eau**
 
@@ -172,7 +174,7 @@ Même les aquariums bien établis peuvent rencontrer des problèmes ponctuels. V
 | Ammoniaque > 0,25 mg/L dans un aquarium mature | Animal mort, suralimentation, filtre obstrué | Retirer le poisson mort ou les matières en décomposition, nettoyer le filtre | Réduire la quantité de nourriture, ajouter des plantes |
 | Nitrites > 0,25 mg/L dans un aquarium mature   | Nettoyage du filtre trop agressif et traitement médicamenteux récent | Arrêter tout nettoyage et remettre une partie des anciens médias filtrants dans l'aquarium + ajouter une petite quantité de sel d'aquarium. | Ne jamais nettoyer tous les médias filtrants en une seule fois |
 | Ammoniaque bloquée entre 0,5 et 1,0 mg/L       | Surface de filtration insuffisante ou faible taux d'oxygène  | Ajouter un filtre éponge supplémentaire + un diffuseur d'air + augmenter la température à 28-30 °C. | Améliorer le système de filtration |
-| Nitrates > 80-100 mg/L                         | Trop de poissons / Changements d'eau et de plantes insuffisants | Changer 50 à 70 % de l'eau sur deux jours + ajouter des plantes. | Réduire la population et mettre en place des méthodes d'élimination des nitrates. |
+| Nitrates > 80-100 mg/L                         | Trop de poissons / Changements d'eau et nbr de plantes insuffisants | Changer 50 à 70 % de l'eau sur deux jours + ajouter des plantes. | Réduire la population et mettre en place des méthodes d'élimination des nitrates. |
 | Diatomées brunes partout                       | Nouvel aquarium + taux élevé de nitrates | Normal les premières semaines. Ajouter des plantes et des escargots. | Disparaît finalement. |
 | Chute brutale du pH. Nitrates > 120 mg/L       | Syndrome du vieil aquarium. Respiration bactérienne excessive. | Augmenter l'aération + changer 70 % de l'eau. | Aspirer le substrat, réduire la nourriture, ajouter des plantes.
 
