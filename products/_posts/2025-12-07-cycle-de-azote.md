@@ -8,9 +8,9 @@ tags:
 
 ### Introduction
 
-Vous en avez surement entendu parlé, le cycle de l'azote par-ci, le cycle de l'azote par-là...Qu'est-ce exactement le cycle de l'azote et quel est son importance pour votre aquarium et vos poissons? Dans cet artivcle, on va donner un petit aperçu de ce processus essentiel, sans lequel vos poissons seraient tous morts.
+Vous en avez surement entendu parlé, le cycle de l'azote par-ci, le cycle de l'azote par-là...Qu'est-ce exactement le cycle de l'azote et quel est son importance pour votre aquarium et vos poissons? Dans cet article, on va donner un petit aperçu de ce processus essentiel, sans lequel vos poissons seraient tous morts.
 
-Mais juste avant, imaginez le scénario suivant : 
+Mais avant celà, imaginez le scénario suivant : 
 
 Vous avez vu de très beaux poissons dans vote magasin préféré. Vous les avez ramenés à la maison tout content. Vous avez préparé un nouveau aquarium, rajouté du substrat, préparé l'eau avec un conditionneur, mis un filtre et finalement rajouté vos poissons. 4 jours plus tard, tous vos poissons sont morts. Ça vous rappelle quelque chose ?
 
