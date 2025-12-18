@@ -156,13 +156,9 @@ Un autre danger important, souvent négligé, est l'utilisation de médicaments.
 
 >Nettoyer vos filtres et votre aquarium est essentiel, mais un nettoyage excessif peut être contre-productif. Les détritus, les sédiments, le biofilm et les matières en décomposition font partie intégrante de l'écosystème de votre aquarium. En retirer trop peut perturber son équilibre.
 
-**Analyse de l'eau**
+**Analyse de l'eau** Vous pouvez analyser l'eau de votre aquarium à l'aide de bandelettes réactives ou de kits de test liquides. Il est généralement admis que les kits de test sont plus fiables. Veillez à suivre les instructions du fabricant et à effectuer des tests régulièrement ou dès que vous constatez un problème.
 
-Vous pouvez analyser l'eau de votre aquarium à l'aide de bandelettes réactives ou de kits de test liquides. Il est généralement admis que les kits de test sont plus fiables. Veillez à suivre les instructions du fabricant et à effectuer des tests régulièrement ou dès que vous constatez un problème.
-
-**Dénitrification**
-
-La dénitrification est une cinquième étape du cycle de l'azote que nous n'avons pas encore abordée. Les bactéries impliquées dans ce processus transforment les nitrates en azote gazeux en consommant de la biomasse organique (source de carbone). Ce processus se déroule dans les zones anoxiques (sans oxygène), par exemple dans un substrat profond.
+**Dénitrification** La dénitrification est une cinquième étape du cycle de l'azote que nous n'avons pas encore abordée. Les bactéries impliquées dans ce processus transforment les nitrates en azote gazeux en consommant de la biomasse organique (source de carbone). Ce processus se déroule dans les zones anoxiques (sans oxygène), par exemple dans un substrat profond.
 
 ### Problèmes courants et dépannage
 
